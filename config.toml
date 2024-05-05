@@ -1,10 +1,10 @@
-baseURL = "https://quan238.github.io/portfolio-new/"
+baseURL = "https://quan238.github.io/portfolio/"
 title = "quan"
 theme = "hugo-theme-ladder"
 license = "MIT"
 licenselink = "https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE"
 description = "A fast, clean Hugo theme"
-homepage = "https://quan238.github.io/portfolio-new/"
+homepage = "https://quan238.github.io/portfolio/"
 defaultContentLanguage = "en"
 googleAnalytics = "G-xxx"
 paginate = 10
@@ -42,11 +42,11 @@ weight = 6
 
 [params]
 brand = "HOME"
-avatarURL = "https://quan238.github.io/portfolio-new/images/avatar.jpg"
+avatarURL = "https://quan238.github.io/portfolio/images/avatar.jpg"
 author = "Quan, Tran Hong"
 authorDescription = "Data, Machine, Software Engineering"
 info = "Ladder is a clean, simple but beautiful theme with awesome features"
-favicon = "https://quan238.github.io/portfolio-new/images/favicon.png"
+favicon = "https://quan238.github.io/portfolio/images/favicon.png"
 darkModeTheme = "data-dark-mode"
 
   [params.options]
@@ -57,7 +57,7 @@ darkModeTheme = "data-dark-mode"
 
 [params.comments.utteranc]
 enable = true
-repo = "quan238/portfolio-new"
+repo = "quan238/portfolio"
 issueTerm = "pathname"
 
 [params.analytics.google]
