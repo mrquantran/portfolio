@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shortcode on quan</title>
-    <link>http://localhost:1313/portfolio-new/tags/shortcode/</link>
+    <link>http://localhost:1313/portfolio/tags/shortcode/</link>
     <description>Recent content in Shortcode on quan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Jul 2022 20:29:08 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio-new/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 20:29:08 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:1313/portfolio-new/blog/rich-content/</link>
+      <link>http://localhost:1313/portfolio/blog/rich-content/</link>
       <pubDate>Mon, 18 Jul 2022 20:29:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio-new/blog/rich-content/</guid>
+      <guid>http://localhost:1313/portfolio/blog/rich-content/</guid>
       <description>&lt;h2 id=&#34;figure&#34;&gt;figure&lt;/h2&gt;
 &lt;h2 id=&#34;ref-in-posts&#34;&gt;ref in posts&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/portfolio-new/blog/videos/&#34;&gt;Neat&lt;/a&gt;
-&lt;a href=&#34;http://localhost:1313/portfolio-new/portfolio-new/blog/videos/#who&#34;&gt;Who&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/portfolio/blog/videos/&#34;&gt;Neat&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/portfolio/portfolio/blog/videos/#who&#34;&gt;Who&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;hide-toggle&#34;&gt;hide toggle&lt;/h2&gt;
 &lt;p&gt;
 &lt;details class=&#34;toggle&#34;&gt;

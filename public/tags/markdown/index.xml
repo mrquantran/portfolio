@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on quan</title>
-    <link>http://localhost:1313/portfolio-new/tags/markdown/</link>
+    <link>http://localhost:1313/portfolio/tags/markdown/</link>
     <description>Recent content in Markdown on quan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jul 2019 16:43:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio-new/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jul 2019 16:43:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Highlight Style test</title>
-      <link>http://localhost:1313/portfolio-new/blog/code-highlight/</link>
+      <link>http://localhost:1313/portfolio/blog/code-highlight/</link>
       <pubDate>Thu, 25 Jul 2019 16:43:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio-new/blog/code-highlight/</guid>
+      <guid>http://localhost:1313/portfolio/blog/code-highlight/</guid>
       <description>&lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;a href=&#34;https://highlightjs.org&#34;&gt;https://highlightjs.org&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plain&#34; data-lang=&#34;plain&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#[derive(Debug)]&lt;/span&gt;
@@ -244,10 +244,10 @@
     
     <item>
       <title>Elements</title>
-      <link>http://localhost:1313/portfolio-new/blog/elements/</link>
+      <link>http://localhost:1313/portfolio/blog/elements/</link>
       <pubDate>Tue, 24 Dec 2013 23:29:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio-new/blog/elements/</guid>
+      <guid>http://localhost:1313/portfolio/blog/elements/</guid>
       <description>&lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don&amp;rsquo;t forget to redefine the style by yourself.&lt;/p&gt;
 &lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
@@ -257,7 +257,7 @@
 &lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;http://localhost:1313/portfolio-new/portfolio-new/&#34;&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &lt;!-- raw HTML omitted --&gt;Underline text&lt;!-- raw HTML omitted --&gt; non elit nisl. &lt;del&gt;Deleted text&lt;/del&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;http://localhost:1313/portfolio/portfolio/&#34;&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &lt;!-- raw HTML omitted --&gt;Underline text&lt;!-- raw HTML omitted --&gt; non elit nisl. &lt;del&gt;Deleted text&lt;/del&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
 &lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. &lt;code&gt;Sed erat diam&lt;/code&gt;, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p&gt;
