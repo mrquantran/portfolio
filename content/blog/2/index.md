@@ -1,11 +1,13 @@
 ---
-title: Markdown Style test
-date: 2018-7-24 23:31:06
+title: Moving From Vietnam to Finland
+date: 2023-07-24 23:31:06
 tags:
   - Foo
   - Bar
 featured: true
 ---
+
+![./featured2.jpg](/featured2.jpg)
 
 This post is originated from and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.
 

@@ -1,13 +1,14 @@
 ---
-title: Elements
-date: 2013-12-24 23:29:08
+title: The lifestyle in Finland
+date: 2023-12-24 23:29:08
 tags: ["markdown"]
 series: ["Markdown"]
 featured: true
 ---
 
-The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don't forget to redefine the style by yourself.
+![./featured.jpg](/featured.jpg)
 
+Finland consistently ranks as one of the happiest countries in the world, and there's a lot to learn from their way of life. Here's a glimpse into what makes Finland tick:
 <!--more-->
 
 # Heading 1
