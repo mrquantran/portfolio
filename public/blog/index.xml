@@ -1,748 +1,889 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on quan</title><link>http://localhost/blog/</link><description>Recent content in Blogs on quan</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 18 Jul 2022 20:29:08 +0000</lastBuildDate><atom:link href="http://localhost/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Rich Content</title><link>http://localhost/blog/rich-content/</link><pubDate>Mon, 18 Jul 2022 20:29:08 +0000</pubDate><guid>http://localhost/blog/rich-content/</guid><description>&lt;h2 id="figure">figure&lt;/h2>
-&lt;h2 id="ref-in-posts">ref in posts&lt;/h2>
-&lt;p>&lt;a href="http://localhost/blog/videos/">Neat&lt;/a>
-&lt;a href="http://localhost/blog/videos/#who">Who&lt;/a>&lt;/p>
-&lt;h2 id="hide-toggle">hide toggle&lt;/h2>
-&lt;p>
-&lt;details class="toggle">
-&lt;summary markdown="span">summary&lt;/summary>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>hide value
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;/details>
-&lt;/p>
-&lt;h3 id="without-summary">without summary&lt;/h3>
-&lt;p>
-&lt;details class="toggle">
-&lt;summary markdown="span">Toggle&lt;/summary>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>hide value
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;/details>
-&lt;/p>
-&lt;h2 id="tab-group-code">tab group code&lt;/h2>
-&lt;div class="tabs tabs-left">
-&lt;style>
-.tabs input#tab-0-0:checked ~ .tab-content-0-0 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-0" checked/>
-&lt;label for="tab-0-0" class="tab-label">Hello&lt;/label>
-&lt;div class="tab-content tab-content-0-0">
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>Hello World!
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;/div>
-&lt;style>
-.tabs input#tab-0-1:checked ~ .tab-content-0-1 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-1" />
-&lt;label for="tab-0-1" class="tab-label">Goodbye&lt;/label>
-&lt;div class="tab-content tab-content-0-1">
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>Goodbye Everybody!
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;h2 id="tab-group">tab group&lt;/h2>
-&lt;div class="tabs tabs-left">
-&lt;style>
-.tabs input#tab-1-0:checked ~ .tab-content-1-0 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-1" id="tab-1-0" checked/>
-&lt;label for="tab-1-0" class="tab-label">MacOS&lt;/label>
-&lt;div class="tab-content tab-content-1-0">
-brew install hugo
-&lt;/div>
-&lt;style>
-.tabs input#tab-1-1:checked ~ .tab-content-1-1 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-1" id="tab-1-1" />
-&lt;label for="tab-1-1" class="tab-label">Linux&lt;/label>
-&lt;div class="tab-content tab-content-1-1">
-apt install hugo
-&lt;/div>
-&lt;style>
-.tabs input#tab-1-2:checked ~ .tab-content-1-2 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-1" id="tab-1-2" />
-&lt;label for="tab-1-2" class="tab-label">Window&lt;/label>
-&lt;div class="tab-content tab-content-1-2">
-window install hugo
-&lt;/div>
-&lt;/div></description></item><item><title>Code Highlight Style test</title><link>http://localhost/blog/code-highlight/</link><pubDate>Thu, 25 Jul 2019 16:43:00 +0000</pubDate><guid>http://localhost/blog/code-highlight/</guid><description>&lt;p>Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;a href="https://highlightjs.org">https://highlightjs.org&lt;/a>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-plain" data-lang="plain">&lt;span style="display:flex;">&lt;span>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-rust" data-lang="rust">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#[derive(Debug)]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">pub&lt;/span> &lt;span style="color:#66d9ef">enum&lt;/span> &lt;span style="color:#a6e22e">State&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Start,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Transient,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Closed,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">impl&lt;/span> From&lt;span style="color:#f92672">&amp;lt;&amp;amp;&lt;/span>&lt;span style="color:#a6e22e">&amp;#39;a&lt;/span> &lt;span style="color:#66d9ef">str&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span> &lt;span style="color:#66d9ef">for&lt;/span> State {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">fn&lt;/span> &lt;span style="color:#a6e22e">from&lt;/span>(s: &lt;span style="color:#66d9ef">&amp;amp;&lt;/span>&lt;span style="color:#a6e22e">&amp;#39;a&lt;/span> &lt;span style="color:#66d9ef">str&lt;/span>) -&amp;gt; &lt;span style="color:#a6e22e">Self&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">match&lt;/span> s {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;start&amp;#34;&lt;/span> &lt;span style="color:#f92672">=&amp;gt;&lt;/span> State::Start,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;closed&amp;#34;&lt;/span> &lt;span style="color:#f92672">=&amp;gt;&lt;/span> State::Closed,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> _ &lt;span style="color:#f92672">=&amp;gt;&lt;/span> unreachable!(),
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-json" data-lang="json">&lt;span style="display:flex;">&lt;span>[
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;title&amp;#34;&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;apples&amp;#34;&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;count&amp;#34;&lt;/span>: [&lt;span style="color:#ae81ff">12000&lt;/span>, &lt;span style="color:#ae81ff">20000&lt;/span>],
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;description&amp;#34;&lt;/span>: {&lt;span style="color:#f92672">&amp;#34;text&amp;#34;&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;...&amp;#34;&lt;/span>, &lt;span style="color:#f92672">&amp;#34;sensitive&amp;#34;&lt;/span>: &lt;span style="color:#66d9ef">false&lt;/span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> },
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;title&amp;#34;&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;oranges&amp;#34;&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;count&amp;#34;&lt;/span>: [&lt;span style="color:#ae81ff">17500&lt;/span>, &lt;span style="color:#66d9ef">null&lt;/span>],
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;description&amp;#34;&lt;/span>: {&lt;span style="color:#f92672">&amp;#34;text&amp;#34;&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;...&amp;#34;&lt;/span>, &lt;span style="color:#f92672">&amp;#34;sensitive&amp;#34;&lt;/span>: &lt;span style="color:#66d9ef">false&lt;/span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>]
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">@requires_authorization&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">somefunc&lt;/span>(param1&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;&amp;#39;&lt;/span>, param2&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">0&lt;/span>):
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">r&lt;/span>&lt;span style="color:#e6db74">&amp;#39;&amp;#39;&amp;#39;A docstring&amp;#39;&amp;#39;&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> param1 &lt;span style="color:#f92672">&amp;gt;&lt;/span> param2: &lt;span style="color:#75715e"># interesting&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print &lt;span style="color:#e6db74">&amp;#39;Gre&lt;/span>&lt;span style="color:#ae81ff">\&amp;#39;&lt;/span>&lt;span style="color:#e6db74">ater&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> (param2 &lt;span style="color:#f92672">-&lt;/span> param1 &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">0b10&lt;/span>l) &lt;span style="color:#f92672">or&lt;/span> &lt;span style="color:#66d9ef">None&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">SomeClass&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">pass&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> message &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;&amp;#39;&amp;#39;interpreter
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">... prompt&amp;#39;&amp;#39;&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&amp;lt;!DOCTYPE html&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Title&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">style&lt;/span>&amp;gt;&lt;span style="color:#f92672">body&lt;/span> {&lt;span style="color:#66d9ef">width&lt;/span>: &lt;span style="color:#ae81ff">500&lt;/span>&lt;span style="color:#66d9ef">px&lt;/span>;}&amp;lt;/&lt;span style="color:#f92672">style&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">script&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;application/javascript&amp;#34;&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">$init&lt;/span>() {&lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#66d9ef">true&lt;/span>;}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">script&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">p&lt;/span> &lt;span style="color:#a6e22e">checked&lt;/span> &lt;span style="color:#a6e22e">class&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;title&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;title&amp;#39;&lt;/span>&amp;gt;Title&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">&amp;lt;!-- here goes the rest of the page --&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">$initHighlight&lt;/span>(&lt;span style="color:#a6e22e">block&lt;/span>, &lt;span style="color:#a6e22e">cls&lt;/span>) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">try&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">cls&lt;/span>.&lt;span style="color:#a6e22e">search&lt;/span>(&lt;span style="color:#e6db74">/\bno\-highlight\b/&lt;/span>) &lt;span style="color:#f92672">!=&lt;/span> &lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#a6e22e">process&lt;/span>(&lt;span style="color:#a6e22e">block&lt;/span>, &lt;span style="color:#66d9ef">true&lt;/span>, &lt;span style="color:#ae81ff">0x0F&lt;/span>) &lt;span style="color:#f92672">+&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">` class=&amp;#34;&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>&lt;span style="color:#a6e22e">cls&lt;/span>&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;`&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> } &lt;span style="color:#66d9ef">catch&lt;/span> (&lt;span style="color:#a6e22e">e&lt;/span>) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">/* handle exception */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span> (&lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#f92672">/&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">classes&lt;/span>.&lt;span style="color:#a6e22e">length&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span>&lt;span style="color:#f92672">++&lt;/span>) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">checkCondition&lt;/span>(&lt;span style="color:#a6e22e">classes&lt;/span>[&lt;span style="color:#a6e22e">i&lt;/span>]) &lt;span style="color:#f92672">===&lt;/span> &lt;span style="color:#66d9ef">undefined&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;undefined&amp;#39;&lt;/span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> (
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">div&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">web&lt;/span>&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#a6e22e">component&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>{&lt;span style="color:#a6e22e">block&lt;/span>}&lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/web-component&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/div&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> )
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">export&lt;/span> &lt;span style="color:#a6e22e">$initHighlight&lt;/span>;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-cpp" data-lang="cpp">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#include&lt;/span> &lt;span style="color:#75715e">&amp;lt;iostream&amp;gt;&lt;/span>&lt;span style="color:#75715e">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">int&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>(&lt;span style="color:#66d9ef">int&lt;/span> argc, &lt;span style="color:#66d9ef">char&lt;/span> &lt;span style="color:#f92672">*&lt;/span>argv[]) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">/* An annoying &amp;#34;Hello World&amp;#34; example */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span> (&lt;span style="color:#66d9ef">auto&lt;/span> i &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>; i &lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#ae81ff">0xFFFF&lt;/span>; i&lt;span style="color:#f92672">++&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cout &lt;span style="color:#f92672">&amp;lt;&amp;lt;&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Hello, World!&amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;lt;&amp;lt;&lt;/span> endl;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">char&lt;/span> c &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;\n&amp;#39;&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> unordered_map &lt;span style="color:#f92672">&amp;lt;&lt;/span>string, vector&lt;span style="color:#f92672">&amp;lt;&lt;/span>string&lt;span style="color:#f92672">&amp;gt;&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span> m;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> m[&lt;span style="color:#e6db74">&amp;#34;key&amp;#34;&lt;/span>] &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#ae81ff">\\\\&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>; &lt;span style="color:#75715e">// this is an error
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">2e3&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">12l&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sql" data-lang="sql">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">CREATE&lt;/span> &lt;span style="color:#66d9ef">TABLE&lt;/span> &lt;span style="color:#e6db74">&amp;#34;topic&amp;#34;&lt;/span> (
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;id&amp;#34;&lt;/span> serial &lt;span style="color:#66d9ef">NOT&lt;/span> &lt;span style="color:#66d9ef">NULL&lt;/span> &lt;span style="color:#66d9ef">PRIMARY&lt;/span> &lt;span style="color:#66d9ef">KEY&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;forum_id&amp;#34;&lt;/span> integer &lt;span style="color:#66d9ef">NOT&lt;/span> &lt;span style="color:#66d9ef">NULL&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;subject&amp;#34;&lt;/span> varchar(&lt;span style="color:#ae81ff">255&lt;/span>) &lt;span style="color:#66d9ef">NOT&lt;/span> &lt;span style="color:#66d9ef">NULL&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">ALTER&lt;/span> &lt;span style="color:#66d9ef">TABLE&lt;/span> &lt;span style="color:#e6db74">&amp;#34;topic&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">ADD&lt;/span> &lt;span style="color:#66d9ef">CONSTRAINT&lt;/span> forum_id &lt;span style="color:#66d9ef">FOREIGN&lt;/span> &lt;span style="color:#66d9ef">KEY&lt;/span> (&lt;span style="color:#e6db74">&amp;#34;forum_id&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">REFERENCES&lt;/span> &lt;span style="color:#e6db74">&amp;#34;forum&amp;#34;&lt;/span> (&lt;span style="color:#e6db74">&amp;#34;id&amp;#34;&lt;/span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">-- Initials
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#66d9ef">insert&lt;/span> &lt;span style="color:#66d9ef">into&lt;/span> &lt;span style="color:#e6db74">&amp;#34;topic&amp;#34;&lt;/span> (&lt;span style="color:#e6db74">&amp;#34;forum_id&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;subject&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">values&lt;/span> (&lt;span style="color:#ae81ff">2&lt;/span>, &lt;span style="color:#e6db74">&amp;#39;D&amp;#39;&amp;#39;artagnian&amp;#39;&lt;/span>);
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-objectivec" data-lang="objectivec">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#import &amp;lt;UIKit/UIKit.h&amp;gt;
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#import &amp;#34;Dependency.h&amp;#34;
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@protocol&lt;/span> &lt;span style="color:#a6e22e">WorldDataSource&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@optional&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">-&lt;/span> (NSString&lt;span style="color:#f92672">*&lt;/span>)worldName;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@required&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">-&lt;/span> (&lt;span style="color:#66d9ef">BOOL&lt;/span>)allowsToLive;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@end&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@property&lt;/span> (&lt;span style="color:#66d9ef">nonatomic&lt;/span>, &lt;span style="color:#66d9ef">readonly&lt;/span>) NSString &lt;span style="color:#f92672">*&lt;/span>title;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>- (&lt;span style="color:#66d9ef">IBAction&lt;/span>) &lt;span style="color:#a6e22e">show&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@end&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-java" data-lang="java">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">/**
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"> * @author John Smith &amp;lt;john.smith@example.com&amp;gt;
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">*/&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">package&lt;/span> l2f.gameserver.model;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">abstract&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">L2Char&lt;/span> &lt;span style="color:#66d9ef">extends&lt;/span> L2Object {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">static&lt;/span> &lt;span style="color:#66d9ef">final&lt;/span> Short ERROR &lt;span style="color:#f92672">=&lt;/span> 0x0001;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">void&lt;/span> &lt;span style="color:#a6e22e">moveTo&lt;/span>(&lt;span style="color:#66d9ef">int&lt;/span> x, &lt;span style="color:#66d9ef">int&lt;/span> y, &lt;span style="color:#66d9ef">int&lt;/span> z) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> _ai &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">null&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> log(&lt;span style="color:#e6db74">&amp;#34;Should not be called&amp;#34;&lt;/span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (1 &lt;span style="color:#f92672">&amp;gt;&lt;/span> 5) { &lt;span style="color:#75715e">// wtf!?&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-swift" data-lang="swift">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> &lt;span style="color:#a6e22e">Foundation&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@objc&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">Person&lt;/span>: Entity {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> name: String!
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> age: Int!
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">init&lt;/span>(name: String, age: Int) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">/* /* ... */ */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">// Return a descriptive string for this person&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">description&lt;/span>(offset: Int = &lt;span style="color:#ae81ff">0&lt;/span>) -&amp;gt; String {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\(&lt;/span>name&lt;span style="color:#e6db74">)&lt;/span>&lt;span style="color:#e6db74"> is &lt;/span>&lt;span style="color:#e6db74">\(&lt;/span>age &lt;span style="color:#f92672">+&lt;/span> offset&lt;span style="color:#e6db74">)&lt;/span>&lt;span style="color:#e6db74"> years old&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-css" data-lang="css">&lt;span style="display:flex;">&lt;span>@&lt;span style="color:#66d9ef">font-face&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">font-family&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#f92672">Chunkfive&lt;/span>&lt;span style="color:#f92672">;&lt;/span> &lt;span style="color:#f92672">src&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#f92672">url&lt;/span>&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#e6db74">&amp;#39;Chunkfive.otf&amp;#39;&lt;/span>&lt;span style="color:#f92672">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">body&lt;/span>&lt;span style="color:#f92672">,&lt;/span> .&lt;span style="color:#a6e22e">usertext&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#ae81ff">#F0F0F0&lt;/span>; &lt;span style="color:#66d9ef">background&lt;/span>: &lt;span style="color:#ae81ff">#600&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">font-family&lt;/span>: Chunkfive, sans;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@&lt;span style="color:#66d9ef">import&lt;/span> &lt;span style="color:#f92672">url&lt;/span>&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">print&lt;/span>.&lt;span style="color:#a6e22e">css&lt;/span>&lt;span style="color:#f92672">)&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@&lt;span style="color:#66d9ef">media&lt;/span> &lt;span style="color:#f92672">print&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">a&lt;/span>&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#f92672">href&lt;/span>&lt;span style="color:#f92672">^=&lt;/span>&lt;span style="color:#f92672">http&lt;/span>&lt;span style="color:#f92672">]&lt;/span>::&lt;span style="color:#a6e22e">after&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">content&lt;/span>: attr(href)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-ruby" data-lang="ruby">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># The Greeter class&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">Greeter&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">initialize&lt;/span>(name)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> @name &lt;span style="color:#f92672">=&lt;/span> name&lt;span style="color:#f92672">.&lt;/span>capitalize
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">end&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">salute&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> puts &lt;span style="color:#e6db74">&amp;#34;Hello &lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>@name&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">!&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">end&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">end&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>g &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">Greeter&lt;/span>&lt;span style="color:#f92672">.&lt;/span>new(&lt;span style="color:#e6db74">&amp;#34;world&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>g&lt;span style="color:#f92672">.&lt;/span>salute
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-makefile" data-lang="makefile">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Makefile
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>BUILDDIR &lt;span style="color:#f92672">=&lt;/span> _build
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>EXTRAS &lt;span style="color:#f92672">?=&lt;/span> &lt;span style="color:#66d9ef">$(&lt;/span>BUILDDIR&lt;span style="color:#66d9ef">)&lt;/span>/extras
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">.PHONY&lt;/span>&lt;span style="color:#f92672">:&lt;/span> main clean
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">main&lt;/span>&lt;span style="color:#f92672">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> @echo &lt;span style="color:#e6db74">&amp;#34;Building main facility...&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> build_main &lt;span style="color:#66d9ef">$(&lt;/span>BUILDDIR&lt;span style="color:#66d9ef">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">clean&lt;/span>&lt;span style="color:#f92672">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> rm -rf &lt;span style="color:#66d9ef">$(&lt;/span>BUILDDIR&lt;span style="color:#66d9ef">)&lt;/span>/*
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">package&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> &lt;span style="color:#e6db74">&amp;#34;fmt&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ch&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> make(&lt;span style="color:#66d9ef">chan&lt;/span> &lt;span style="color:#66d9ef">float64&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ch&lt;/span> &lt;span style="color:#f92672">&amp;lt;-&lt;/span> &lt;span style="color:#ae81ff">1.0e10&lt;/span> &lt;span style="color:#75715e">// magic number
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">x&lt;/span>, &lt;span style="color:#a6e22e">ok&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> &lt;span style="color:#f92672">&amp;lt;-&lt;/span> &lt;span style="color:#a6e22e">ch&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">defer&lt;/span> &lt;span style="color:#a6e22e">fmt&lt;/span>.&lt;span style="color:#a6e22e">Println&lt;/span>(&lt;span style="color:#e6db74">`exitting now\`&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">go&lt;/span> println(len(&lt;span style="color:#e6db74">&amp;#34;hello world!&amp;#34;&lt;/span>))
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#!/bin/bash
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">###### CONFIG&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>ACCEPTED_HOSTS&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;/root/.hag_accepted.conf&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>BE_VERBOSE&lt;span style="color:#f92672">=&lt;/span>false
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">[&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$UID&lt;span style="color:#e6db74">&amp;#34;&lt;/span> -ne &lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#f92672">]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">then&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> echo &lt;span style="color:#e6db74">&amp;#34;Superuser rights required&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> exit &lt;span style="color:#ae81ff">2&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">fi&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>genApacheConf&lt;span style="color:#f92672">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> echo -e &lt;span style="color:#e6db74">&amp;#34;# Host &lt;/span>&lt;span style="color:#e6db74">${&lt;/span>HOME_DIR&lt;span style="color:#e6db74">}&lt;/span>$1&lt;span style="color:#e6db74">/&lt;/span>$2&lt;span style="color:#e6db74"> :&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-ini" data-lang="ini">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">; boilerplate&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">[package]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">name&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;some_name&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">authors&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">[&amp;#34;Author&amp;#34;]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">description&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;This is \&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">a description&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">[[lib]]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">name&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">${NAME}&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">default&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">True&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">auto&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">no&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">counter&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">1_000&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Videos</title><link>http://localhost/blog/videos/</link><pubDate>Wed, 25 Dec 2013 00:19:15 +0000</pubDate><guid>http://localhost/blog/videos/</guid><description>&lt;p>This is a video test post.&lt;/p>
-&lt;h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode&lt;/h2>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/ZJthWmvUzzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="twitter-simple-shortcode">Twitter Simple Shortcode&lt;/h2>
-&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href="https://t.co/eJh4f2zncC">pic.twitter.com/eJh4f2zncC&lt;/a>&lt;/p>&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href="https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw">October 26, 2021&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode&lt;/h2>
-&lt;style>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on quan</title>
+    <link>http://localhost:1313/portfolio-new/blog/</link>
+    <description>Recent content in Blogs on quan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Jul 2022 20:29:08 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio-new/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/portfolio-new/blog/rich-content/</link>
+      <pubDate>Mon, 18 Jul 2022 20:29:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio-new/blog/rich-content/</guid>
+      <description>&lt;h2 id=&#34;figure&#34;&gt;figure&lt;/h2&gt;
+&lt;h2 id=&#34;ref-in-posts&#34;&gt;ref in posts&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/portfolio-new/blog/videos/&#34;&gt;Neat&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/portfolio-new/portfolio-new/blog/videos/#who&#34;&gt;Who&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hide-toggle&#34;&gt;hide toggle&lt;/h2&gt;
+&lt;p&gt;
+&lt;details class=&#34;toggle&#34;&gt;
+  &lt;summary markdown=&#34;span&#34;&gt;summary&lt;/summary&gt;
+  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hide value
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;without-summary&#34;&gt;without summary&lt;/h3&gt;
+&lt;p&gt;
+&lt;details class=&#34;toggle&#34;&gt;
+  &lt;summary markdown=&#34;span&#34;&gt;Toggle&lt;/summary&gt;
+  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hide value
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/details&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;tab-group-code&#34;&gt;tab group code&lt;/h2&gt;
+
+
+
+
+
+&lt;div class=&#34;tabs tabs-left&#34;&gt;
+  
+
+
+
+
+&lt;style&gt;
+  .tabs input#tab-0-0:checked ~ .tab-content-0-0 {
+    display: block;
+  }
+&lt;/style&gt;
+
+&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-0&#34; checked/&gt;
+&lt;label for=&#34;tab-0-0&#34; class=&#34;tab-label&#34;&gt;Hello&lt;/label&gt;
+&lt;div class=&#34;tab-content tab-content-0-0&#34;&gt;
+  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Hello World!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+&lt;style&gt;
+  .tabs input#tab-0-1:checked ~ .tab-content-0-1 {
+    display: block;
+  }
+&lt;/style&gt;
+
+&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-1&#34; /&gt;
+&lt;label for=&#34;tab-0-1&#34; class=&#34;tab-label&#34;&gt;Goodbye&lt;/label&gt;
+&lt;div class=&#34;tab-content tab-content-0-1&#34;&gt;
+  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Goodbye Everybody!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+&lt;h2 id=&#34;tab-group&#34;&gt;tab group&lt;/h2&gt;
+
+
+
+
+
+&lt;div class=&#34;tabs tabs-left&#34;&gt;
+  
+
+
+
+
+&lt;style&gt;
+  .tabs input#tab-1-0:checked ~ .tab-content-1-0 {
+    display: block;
+  }
+&lt;/style&gt;
+
+&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-1&#34; id=&#34;tab-1-0&#34; checked/&gt;
+&lt;label for=&#34;tab-1-0&#34; class=&#34;tab-label&#34;&gt;MacOS&lt;/label&gt;
+&lt;div class=&#34;tab-content tab-content-1-0&#34;&gt;
+  brew install hugo
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+&lt;style&gt;
+  .tabs input#tab-1-1:checked ~ .tab-content-1-1 {
+    display: block;
+  }
+&lt;/style&gt;
+
+&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-1&#34; id=&#34;tab-1-1&#34; /&gt;
+&lt;label for=&#34;tab-1-1&#34; class=&#34;tab-label&#34;&gt;Linux&lt;/label&gt;
+&lt;div class=&#34;tab-content tab-content-1-1&#34;&gt;
+  apt install hugo
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+&lt;style&gt;
+  .tabs input#tab-1-2:checked ~ .tab-content-1-2 {
+    display: block;
+  }
+&lt;/style&gt;
+
+&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-1&#34; id=&#34;tab-1-2&#34; /&gt;
+&lt;label for=&#34;tab-1-2&#34; class=&#34;tab-label&#34;&gt;Window&lt;/label&gt;
+&lt;div class=&#34;tab-content tab-content-1-2&#34;&gt;
+  window install hugo
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code Highlight Style test</title>
+      <link>http://localhost:1313/portfolio-new/blog/code-highlight/</link>
+      <pubDate>Thu, 25 Jul 2019 16:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio-new/blog/code-highlight/</guid>
+      <description>&lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;a href=&#34;https://highlightjs.org&#34;&gt;https://highlightjs.org&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plain&#34; data-lang=&#34;plain&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#[derive(Debug)]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;pub&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;enum&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;State&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Start,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Transient,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Closed,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;impl&lt;/span&gt; From&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;amp;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;&amp;#39;a&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;str&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; State {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;fn&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;from&lt;/span&gt;(s: &lt;span style=&#34;color:#66d9ef&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;&amp;#39;a&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;str&lt;/span&gt;) -&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Self&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;match&lt;/span&gt; s {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;start&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&amp;gt;&lt;/span&gt; State::Start,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;closed&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&amp;gt;&lt;/span&gt; State::Closed,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            _ &lt;span style=&#34;color:#f92672&#34;&gt;=&amp;gt;&lt;/span&gt; unreachable!(),
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;apples&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;count&amp;#34;&lt;/span&gt;: [&lt;span style=&#34;color:#ae81ff&#34;&gt;12000&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;20000&lt;/span&gt;],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;description&amp;#34;&lt;/span&gt;: {&lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;text&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;...&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;sensitive&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;false&lt;/span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  },
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;oranges&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;count&amp;#34;&lt;/span&gt;: [&lt;span style=&#34;color:#ae81ff&#34;&gt;17500&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;null&lt;/span&gt;],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;description&amp;#34;&lt;/span&gt;: {&lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;text&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;...&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;sensitive&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;false&lt;/span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;@requires_authorization&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;somefunc&lt;/span&gt;(param1&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&lt;/span&gt;, param2&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e6db74&#34;&gt;r&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&amp;#39;A docstring&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; param1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; param2: &lt;span style=&#34;color:#75715e&#34;&gt;# interesting&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        print &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Gre&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;ater&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; (param2 &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; param1 &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0b10&lt;/span&gt;l) &lt;span style=&#34;color:#f92672&#34;&gt;or&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;None&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;SomeClass&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;pass&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; message &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&amp;#39;interpreter
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;... prompt&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Title&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt; {&lt;span style=&#34;color:#66d9ef&#34;&gt;width&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;500&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;script&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;type&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;application/javascript&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$init&lt;/span&gt;() {&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;script&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;checked&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;&amp;gt;Title&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- here goes the rest of the page --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$initHighlight&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;/\bno\-highlight\b/&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;process&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x0F&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;             &lt;span style=&#34;color:#e6db74&#34;&gt;` class=&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;cls&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;`&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  } &lt;span style=&#34;color:#66d9ef&#34;&gt;catch&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;e&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;/* handle exception */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;checkCondition&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;]) &lt;span style=&#34;color:#f92672&#34;&gt;===&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;undefined&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;undefined&amp;#39;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; (
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;div&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;web&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;component&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;{&lt;span style=&#34;color:#a6e22e&#34;&gt;block&lt;/span&gt;}&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;/web-component&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;/div&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  )
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;export&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;$initHighlight&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; argc, &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;argv[]) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#75715e&#34;&gt;/* An annoying &amp;#34;Hello World&amp;#34; example */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt; i &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;; i &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0xFFFF&lt;/span&gt;; i&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; endl;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt; c &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;\n&amp;#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  unordered_map &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;string, vector&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;string&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; m;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  m[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;key&amp;#34;&lt;/span&gt;] &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\\\\&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;; &lt;span style=&#34;color:#75715e&#34;&gt;// this is an error
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2e3&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;12l&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;CREATE&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TABLE&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;topic&amp;#34;&lt;/span&gt; (
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;id&amp;#34;&lt;/span&gt; serial &lt;span style=&#34;color:#66d9ef&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NULL&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;PRIMARY&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;KEY&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;forum_id&amp;#34;&lt;/span&gt; integer &lt;span style=&#34;color:#66d9ef&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;subject&amp;#34;&lt;/span&gt; varchar(&lt;span style=&#34;color:#ae81ff&#34;&gt;255&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NULL&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;ALTER&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TABLE&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;topic&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;ADD&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;CONSTRAINT&lt;/span&gt; forum_id &lt;span style=&#34;color:#66d9ef&#34;&gt;FOREIGN&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;KEY&lt;/span&gt; (&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;forum_id&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;REFERENCES&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;forum&amp;#34;&lt;/span&gt; (&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;id&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;-- Initials
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;insert&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;into&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;topic&amp;#34;&lt;/span&gt; (&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;forum_id&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;subject&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;values&lt;/span&gt; (&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;D&amp;#39;&amp;#39;artagnian&amp;#39;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-objectivec&#34; data-lang=&#34;objectivec&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#import &amp;lt;UIKit/UIKit.h&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#import &amp;#34;Dependency.h&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;@protocol&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;WorldDataSource&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;@optional&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; (NSString&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;)worldName;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;@required&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;BOOL&lt;/span&gt;)allowsToLive;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;@end&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;@property&lt;/span&gt; (&lt;span style=&#34;color:#66d9ef&#34;&gt;nonatomic&lt;/span&gt;, &lt;span style=&#34;color:#66d9ef&#34;&gt;readonly&lt;/span&gt;) NSString &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;title;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;- (&lt;span style=&#34;color:#66d9ef&#34;&gt;IBAction&lt;/span&gt;) &lt;span style=&#34;color:#a6e22e&#34;&gt;show&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;@end&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/**
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt; * @author John Smith &amp;lt;john.smith@example.com&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;*/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; l2f.gameserver.model;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;abstract&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;L2Char&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;extends&lt;/span&gt; L2Object {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;final&lt;/span&gt; Short ERROR &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; 0x0001;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;moveTo&lt;/span&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; x, &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; y, &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; z) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    _ai &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;null&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    log(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Should not be called&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; 5) { &lt;span style=&#34;color:#75715e&#34;&gt;// wtf!?&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-swift&#34; data-lang=&#34;swift&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Foundation&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;@objc&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Person&lt;/span&gt;: Entity {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; name: String!
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; age:  Int!
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;init&lt;/span&gt;(name: String, age: Int) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;/* /* ... */ */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#75715e&#34;&gt;// Return a descriptive string for this person&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;description&lt;/span&gt;(offset: Int = &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;) -&amp;gt; String {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;\(&lt;/span&gt;name&lt;span style=&#34;color:#e6db74&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt; is &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;\(&lt;/span&gt;age &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; offset&lt;span style=&#34;color:#e6db74&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt; years old&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@&lt;span style=&#34;color:#66d9ef&#34;&gt;font-face&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;font-family&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;Chunkfive&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;src&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;url&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Chunkfive.otf&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; .&lt;span style=&#34;color:#a6e22e&#34;&gt;usertext&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#F0F0F0&lt;/span&gt;; &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#600&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;font-family&lt;/span&gt;: Chunkfive, sans;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@&lt;span style=&#34;color:#66d9ef&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;url&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;print&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;css&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;@&lt;span style=&#34;color:#66d9ef&#34;&gt;media&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;print&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;http&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;::&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: attr(href)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ruby&#34; data-lang=&#34;ruby&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# The Greeter class&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Greeter&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;initialize&lt;/span&gt;(name)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    @name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; name&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;capitalize
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;salute&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    puts &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;#{&lt;/span&gt;@name&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;end&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;g &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;Greeter&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;new(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;world&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;g&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;salute
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-makefile&#34; data-lang=&#34;makefile&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Makefile
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;BUILDDIR      &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; _build
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;EXTRAS       &lt;span style=&#34;color:#f92672&#34;&gt;?=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;BUILDDIR&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;/extras
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;.PHONY&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; main clean
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	@echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Building main facility...&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	build_main &lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;BUILDDIR&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;clean&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	rm -rf &lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;BUILDDIR&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;/*
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;ch&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; make(&lt;span style=&#34;color:#66d9ef&#34;&gt;chan&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;float64&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;ch&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1.0e10&lt;/span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;// magic number
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;x&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;ok&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;defer&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;`exitting now\`&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;go&lt;/span&gt; println(len(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hello world!&amp;#34;&lt;/span&gt;))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#!/bin/bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;###### CONFIG&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ACCEPTED_HOSTS&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/root/.hag_accepted.conf&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;BE_VERBOSE&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;false
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;$UID&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt; -ne &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;then&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Superuser rights required&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  exit &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;fi&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;genApacheConf&lt;span style=&#34;color:#f92672&#34;&gt;(){&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  echo -e &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;# Host &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;HOME_DIR&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;$1&lt;span style=&#34;color:#e6db74&#34;&gt;/&lt;/span&gt;$2&lt;span style=&#34;color:#e6db74&#34;&gt; :&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;; boilerplate&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;[package]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;some_name&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;authors&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;[&amp;#34;Author&amp;#34;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;description&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;This is \&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;a description&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;[[lib]]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;${NAME}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;default&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;True&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;auto&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;no&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;counter&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;1_000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>http://localhost:1313/portfolio-new/blog/videos/</link>
+      <pubDate>Wed, 25 Dec 2013 00:19:15 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio-new/blog/videos/</guid>
+      <description>&lt;p&gt;This is a video test post.&lt;/p&gt;
+&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZJthWmvUzzc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href=&#34;https://t.co/eJh4f2zncC&#34;&gt;pic.twitter.com/eJh4f2zncC&lt;/a&gt;&lt;/p&gt;&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href=&#34;https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw&#34;&gt;October 26, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;
+&lt;style&gt;
 .__h_video {
-position: relative;
-padding-bottom: 56.23%;
-height: 0;
-overflow: hidden;
-width: 100%;
-background: #000;
+   position: relative;
+   padding-bottom: 56.23%;
+   height: 0;
+   overflow: hidden;
+   width: 100%;
+   background: #000;
 }
 .__h_video img {
-width: 100%;
-height: auto;
-color: #000;
+   width: 100%;
+   height: auto;
+   color: #000;
 }
 .__h_video .play {
-height: 72px;
-width: 72px;
-left: 50%;
-top: 50%;
-margin-left: -36px;
-margin-top: -36px;
-position: absolute;
-cursor: pointer;
+   height: 72px;
+   width: 72px;
+   left: 50%;
+   top: 50%;
+   margin-left: -36px;
+   margin-top: -36px;
+   position: absolute;
+   cursor: pointer;
 }
-&lt;/style>&lt;div class="s_video_simple __h_video">
-&lt;a href="https://vimeo.com/4.8912912e&amp;#43;07" rel="noopener" target="_blank">
-&lt;img src="https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640" srcset="https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 1x, https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 2x" alt="Sing Jan Swing - Kinetic Type">
-&lt;div class="play">
-&lt;svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61">&lt;circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000">&lt;/circle>&lt;path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff">&lt;/path>&lt;/svg>
-&lt;/div>
-&lt;/a>
-&lt;/div></description></item><item><title>日本語テスト</title><link>http://localhost/blog/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link><pubDate>Tue, 24 Dec 2013 23:33:26 +0000</pubDate><guid>http://localhost/blog/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid><description>&lt;p>This is a Japanese test post.&lt;/p>
-&lt;p>私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p>
-&lt;p>最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p>
-&lt;p>がたを知っないはずも同時に九月をいよいよたありた。&lt;/p>
-&lt;p>もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p>
-&lt;blockquote>
-&lt;p>それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p>
-&lt;/blockquote>
-&lt;p>この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p>
-&lt;p>&lt;em>From &lt;a href="http://lipsum.sugutsukaeru.jp/index.cgi">すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/a>&lt;/em>&lt;/p></description></item><item><title>中文測試</title><link>http://localhost/blog/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link><pubDate>Tue, 24 Dec 2013 23:31:30 +0000</pubDate><guid>http://localhost/blog/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid><description>&lt;p>This is a Chinese test post.&lt;/p>
-&lt;p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p>
-&lt;p>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p>
-&lt;p>就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p>
-&lt;p>國新故。&lt;/p>
-&lt;blockquote>
-&lt;p>工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p>
-&lt;/blockquote>
-&lt;p>&lt;em>From &lt;a href="http://www.richyli.com/tool/loremipsum/">亂數假文產生器 - Chinese Lorem Ipsum&lt;/a>&lt;/em>&lt;/p></description></item><item><title>Elements</title><link>http://localhost/blog/elements/</link><pubDate>Tue, 24 Dec 2013 23:29:08 +0000</pubDate><guid>http://localhost/blog/elements/</guid><description>&lt;p>The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don&amp;rsquo;t forget to redefine the style by yourself.&lt;/p>
-&lt;h1 id="heading-1">Heading 1&lt;/h1>
-&lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;h3 id="heading-3">Heading 3&lt;/h3>
-&lt;h4 id="heading-4">Heading 4&lt;/h4>
-&lt;h5 id="heading-5">Heading 5&lt;/h5>
-&lt;h6 id="heading-6">Heading 6&lt;/h6>
-&lt;hr>
-&lt;h2 id="paragraph">Paragraph&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, &lt;a href="http://localhost/">test link&lt;/a> consectetur adipiscing elit. &lt;strong>Strong text&lt;/strong> pellentesque ligula commodo viverra vehicula. &lt;em>Italic text&lt;/em> at ullamcorper enim. Morbi a euismod nibh. &lt;!-- raw HTML omitted -->Underline text&lt;!-- raw HTML omitted --> non elit nisl. &lt;del>Deleted text&lt;/del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p>
-&lt;p>Interdum et malesuada fames ac ante ipsum primis in faucibus. &lt;code>Sed erat diam&lt;/code>, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p>
-&lt;blockquote>
-&lt;p>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p>
-&lt;/blockquote>
-&lt;p>Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.&lt;/p>
-&lt;h2 id="list-types">List Types&lt;/h2>
-&lt;h3 id="definition-list-dl">Definition List (dl)&lt;/h3>
-&lt;!-- raw HTML omitted -->
-&lt;h3 id="ordered-list-ol">Ordered List (ol)&lt;/h3>
-&lt;ol>
-&lt;li>List Item 1&lt;/li>
-&lt;li>List Item 2&lt;/li>
-&lt;li>List Item 3&lt;/li>
-&lt;/ol>
-&lt;h3 id="unordered-list-ul">Unordered List (ul)&lt;/h3>
-&lt;ul>
-&lt;li>List Item 1&lt;/li>
-&lt;li>List Item 2&lt;/li>
-&lt;li>List Item 3&lt;/li>
-&lt;/ul>
-&lt;h3 id="checkbox-list-ul">Checkbox List (ul)&lt;/h3>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> List Item 1 unchecked&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> List Item 2 checked&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> List Item 3 checked&lt;/li>
-&lt;/ul>
-&lt;h2 id="table">Table&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Table Header 1&lt;/th>
-&lt;th>Table Header 2&lt;/th>
-&lt;th>Table Header 3&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Division 1&lt;/td>
-&lt;td>Division 2&lt;/td>
-&lt;td>Division 3&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Division 1&lt;/td>
-&lt;td>Division 2&lt;/td>
-&lt;td>Division 3&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Division 1&lt;/td>
-&lt;td>Division 2&lt;/td>
-&lt;td>Division 3&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="misc-stuff---abbr-acronym-sub-sup-kbd-etc">Misc Stuff - abbr, acronym, sub, sup, kbd, etc.&lt;/h2>
-&lt;p>Lorem &lt;!-- raw HTML omitted -->superscript&lt;!-- raw HTML omitted --> dolor &lt;!-- raw HTML omitted -->subscript&lt;!-- raw HTML omitted --> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;!-- raw HTML omitted -->cite&lt;!-- raw HTML omitted -->. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &lt;!-- raw HTML omitted -->NBA&lt;!-- raw HTML omitted --> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. &lt;!-- raw HTML omitted -->AVE&lt;!-- raw HTML omitted -->. Use &lt;!-- raw HTML omitted -->Crtl&lt;!-- raw HTML omitted --> + &lt;!-- raw HTML omitted -->C&lt;!-- raw HTML omitted --> to stop.&lt;/p></description></item><item><title>Markdown Style test</title><link>http://localhost/blog/markdown/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost/blog/markdown/</guid><description>&lt;p>This post is originated from &lt;a href="https://gist.github.com/apackeer/4159268">here&lt;/a> and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p>
-&lt;hr>
-&lt;h2 id="headers">Headers&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span># H1
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">## H2
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">### H3
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#### H4
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">##### H5
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">###### H6
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Alternatively, for H1 and H2, an underline-ish style:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Alt-H1
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>======
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Alt-H2
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>------
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="h1">H1&lt;/h1>
-&lt;h2 id="h2">H2&lt;/h2>
-&lt;h3 id="h3">H3&lt;/h3>
-&lt;h4 id="h4">H4&lt;/h4>
-&lt;h5 id="h5">H5&lt;/h5>
-&lt;h6 id="h6">H6&lt;/h6>
-&lt;p>Alternatively, for H1 and H2, an underline-ish style:&lt;/p>
-&lt;h1 id="alt-h1">Alt-H1&lt;/h1>
-&lt;h2 id="alt-h2">Alt-H2&lt;/h2>
-&lt;h2 id="emphasis">Emphasis&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Emphasis, aka italics, with &lt;span style="font-style:italic">*asterisks*&lt;/span> or &lt;span style="font-style:italic">_underscores_&lt;/span>.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Strong emphasis, aka bold, with &lt;span style="font-weight:bold">**asterisks**&lt;/span> or &lt;span style="font-weight:bold">__underscores__&lt;/span>.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Combined emphasis with &lt;span style="font-weight:bold">**asterisks and _underscores_**&lt;/span>.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Strikethrough uses two tildes. &lt;span style="color:#f92672">~~Scratch this.~~&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Emphasis, aka italics, with &lt;em>asterisks&lt;/em> or &lt;em>underscores&lt;/em>.&lt;/p>
-&lt;p>Strong emphasis, aka bold, with &lt;strong>asterisks&lt;/strong> or &lt;strong>underscores&lt;/strong>.&lt;/p>
-&lt;p>Combined emphasis with &lt;strong>asterisks and &lt;em>underscores&lt;/em>&lt;/strong>.&lt;/p>
-&lt;p>Strikethrough uses two tildes. &lt;del>Scratch this.&lt;/del>&lt;/p>
-&lt;h2 id="lists">Lists&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">1.&lt;/span> First ordered list item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">2.&lt;/span> Another item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">*&lt;/span> Unordered sub-list.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">1.&lt;/span> Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">1.&lt;/span> Ordered sub-list
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">4.&lt;/span> And another item.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;#39;ll use three here to also align the raw Markdown).
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> To have a line break without a paragraph, you will need to use two trailing spaces.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Note that this line is separate, but within the same paragraph.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered list can use asterisks
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">-&lt;/span> Or minuses
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>+ Or pluses
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">-&lt;/span> Paragraph In unordered list
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> For example like this.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Common Paragraph with some text.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>And more text.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol>
-&lt;li>First ordered list item&lt;/li>
-&lt;li>Another item&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>Unordered sub-list.&lt;/li>
-&lt;/ul>
-&lt;ol>
-&lt;li>
-&lt;p>Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Ordered sub-list&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>And another item.&lt;/p>
-&lt;p>You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;rsquo;ll use three here to also align the raw Markdown).&lt;/p>
-&lt;p>To have a line break without a paragraph, you will need to use two trailing spaces.&lt;br>
-Note that this line is separate, but within the same paragraph.&lt;br>
-(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>Unordered list can use asterisks&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>Or minuses&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>Or pluses&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>
-&lt;p>Paragraph In unordered list&lt;/p>
-&lt;p>For example like this.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>Common Paragraph with some text.
-And more text.&lt;/p>
-&lt;h2 id="inline-html">Inline HTML&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">p&lt;/span>&amp;gt;To reboot your computer, press &amp;lt;&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;ctrl&amp;lt;/&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;+&amp;lt;&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;alt&amp;lt;/&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;+&amp;lt;&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;del&amp;lt;/&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;.&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;!-- raw HTML omitted -->
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">dl&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">dt&lt;/span>&amp;gt;Definition list&amp;lt;/&lt;span style="color:#f92672">dt&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">dd&lt;/span>&amp;gt;Is something people use sometimes.&amp;lt;/&lt;span style="color:#f92672">dd&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">dt&lt;/span>&amp;gt;Markdown in HTML&amp;lt;/&lt;span style="color:#f92672">dt&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">dd&lt;/span>&amp;gt;Does &lt;span style="font-style:italic">*not*&lt;/span> work &lt;span style="font-weight:bold">**very**&lt;/span> well. Use HTML &amp;lt;&lt;span style="color:#f92672">em&lt;/span>&amp;gt;tags&amp;lt;/&lt;span style="color:#f92672">em&lt;/span>&amp;gt;.&amp;lt;/&lt;span style="color:#f92672">dd&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">dl&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;!-- raw HTML omitted -->
-&lt;pre>&lt;code>&amp;lt;dt&amp;gt;Markdown in HTML&amp;lt;/dt&amp;gt;
+&lt;/style&gt;&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
+          &lt;a href=&#34;https://vimeo.com/4.8912912e&amp;#43;07&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
+            &lt;img src=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 1x, https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
+            &lt;div class=&#34;play&#34;&gt;
+              &lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+            &lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>日本語テスト</title>
+      <link>http://localhost:1313/portfolio-new/blog/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
+      <pubDate>Tue, 24 Dec 2013 23:33:26 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio-new/blog/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
+      <description>&lt;p&gt;This is a Japanese test post.&lt;/p&gt;
+&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
+&lt;p&gt;最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p&gt;
+&lt;p&gt;がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
+&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;From &lt;a href=&#34;http://lipsum.sugutsukaeru.jp/index.cgi&#34;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中文測試</title>
+      <link>http://localhost:1313/portfolio-new/blog/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
+      <pubDate>Tue, 24 Dec 2013 23:31:30 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio-new/blog/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
+      <description>&lt;p&gt;This is a Chinese test post.&lt;/p&gt;
+&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
+&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
+&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
+&lt;p&gt;國新故。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;From &lt;a href=&#34;http://www.richyli.com/tool/loremipsum/&#34;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elements</title>
+      <link>http://localhost:1313/portfolio-new/blog/elements/</link>
+      <pubDate>Tue, 24 Dec 2013 23:29:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio-new/blog/elements/</guid>
+      <description>&lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don&amp;rsquo;t forget to redefine the style by yourself.&lt;/p&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
+&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
+&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;http://localhost:1313/portfolio-new/portfolio-new/&#34;&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &lt;!-- raw HTML omitted --&gt;Underline text&lt;!-- raw HTML omitted --&gt; non elit nisl. &lt;del&gt;Deleted text&lt;/del&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
+&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. &lt;code&gt;Sed erat diam&lt;/code&gt;, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.&lt;/p&gt;
+&lt;h2 id=&#34;list-types&#34;&gt;List Types&lt;/h2&gt;
+&lt;h3 id=&#34;definition-list-dl&#34;&gt;Definition List (dl)&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;ordered-list-ol&#34;&gt;Ordered List (ol)&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;unordered-list-ul&#34;&gt;Unordered List (ul)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;checkbox-list-ul&#34;&gt;Checkbox List (ul)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; List Item 1 unchecked&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; List Item 2 checked&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; List Item 3 checked&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;table&#34;&gt;Table&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Table Header 1&lt;/th&gt;
+&lt;th&gt;Table Header 2&lt;/th&gt;
+&lt;th&gt;Table Header 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;misc-stuff---abbr-acronym-sub-sup-kbd-etc&#34;&gt;Misc Stuff - abbr, acronym, sub, sup, kbd, etc.&lt;/h2&gt;
+&lt;p&gt;Lorem &lt;!-- raw HTML omitted --&gt;superscript&lt;!-- raw HTML omitted --&gt; dolor &lt;!-- raw HTML omitted --&gt;subscript&lt;!-- raw HTML omitted --&gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;!-- raw HTML omitted --&gt;cite&lt;!-- raw HTML omitted --&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &lt;!-- raw HTML omitted --&gt;NBA&lt;!-- raw HTML omitted --&gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &lt;!-- raw HTML omitted --&gt;AVE&lt;!-- raw HTML omitted --&gt;. Use &lt;!-- raw HTML omitted --&gt;Crtl&lt;!-- raw HTML omitted --&gt; + &lt;!-- raw HTML omitted --&gt;C&lt;!-- raw HTML omitted --&gt; to stop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Style test</title>
+      <link>http://localhost:1313/portfolio-new/blog/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio-new/blog/markdown/</guid>
+      <description>&lt;p&gt;This post is originated from &lt;a href=&#34;https://gist.github.com/apackeer/4159268&#34;&gt;here&lt;/a&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;headers&#34;&gt;Headers&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# H1
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## H2
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;### H3
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#### H4
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##### H5
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;###### H6
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Alternatively, for H1 and H2, an underline-ish style:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Alt-H1
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;======
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Alt-H2
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;------
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;
+&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;
+&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;
+&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;
+&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;
+&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;
+&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;
+&lt;h1 id=&#34;alt-h1&#34;&gt;Alt-H1&lt;/h1&gt;
+&lt;h2 id=&#34;alt-h2&#34;&gt;Alt-H2&lt;/h2&gt;
+&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Emphasis, aka italics, with &lt;span style=&#34;font-style:italic&#34;&gt;*asterisks*&lt;/span&gt; or &lt;span style=&#34;font-style:italic&#34;&gt;_underscores_&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Strong emphasis, aka bold, with &lt;span style=&#34;font-weight:bold&#34;&gt;**asterisks**&lt;/span&gt; or &lt;span style=&#34;font-weight:bold&#34;&gt;__underscores__&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Combined emphasis with &lt;span style=&#34;font-weight:bold&#34;&gt;**asterisks and _underscores_**&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Strikethrough uses two tildes. &lt;span style=&#34;color:#f92672&#34;&gt;~~Scratch this.~~&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;1.&lt;/span&gt; First ordered list item
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;2.&lt;/span&gt; Another item
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;*&lt;/span&gt; Unordered sub-list.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;1.&lt;/span&gt; Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;1.&lt;/span&gt; Ordered sub-list
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;4.&lt;/span&gt; And another item.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;#39;ll use three here to also align the raw Markdown).
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   To have a line break without a paragraph, you will need to use two trailing spaces.  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   Note that this line is separate, but within the same paragraph.  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;*&lt;/span&gt; Unordered list can use asterisks
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Or minuses
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;+ Or pluses
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Paragraph In unordered list
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  For example like this.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Common Paragraph with some text.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;And more text.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol&gt;
+&lt;li&gt;First ordered list item&lt;/li&gt;
+&lt;li&gt;Another item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Unordered sub-list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ordered sub-list&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;And another item.&lt;/p&gt;
+&lt;p&gt;You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;rsquo;ll use three here to also align the raw Markdown).&lt;/p&gt;
+&lt;p&gt;To have a line break without a paragraph, you will need to use two trailing spaces.&lt;br&gt;
+Note that this line is separate, but within the same paragraph.&lt;br&gt;
+(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Or minuses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Or pluses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Paragraph In unordered list&lt;/p&gt;
+&lt;p&gt;For example like this.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Common Paragraph with some text.
+And more text.&lt;/p&gt;
+&lt;h2 id=&#34;inline-html&#34;&gt;Inline HTML&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;To reboot your computer, press &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;kbd&lt;/span&gt;&amp;gt;ctrl&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;kbd&lt;/span&gt;&amp;gt;+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;kbd&lt;/span&gt;&amp;gt;alt&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;kbd&lt;/span&gt;&amp;gt;+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;kbd&lt;/span&gt;&amp;gt;del&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;kbd&lt;/span&gt;&amp;gt;.&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;dl&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;dt&lt;/span&gt;&amp;gt;Definition list&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;dt&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;dd&lt;/span&gt;&amp;gt;Is something people use sometimes.&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;dd&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;dt&lt;/span&gt;&amp;gt;Markdown in HTML&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;dt&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;dd&lt;/span&gt;&amp;gt;Does &lt;span style=&#34;font-style:italic&#34;&gt;*not*&lt;/span&gt; work &lt;span style=&#34;font-weight:bold&#34;&gt;**very**&lt;/span&gt; well. Use HTML &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;em&lt;/span&gt;&amp;gt;tags&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;em&lt;/span&gt;&amp;gt;.&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;dd&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;dl&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;dt&amp;gt;Markdown in HTML&amp;lt;/dt&amp;gt;
 &amp;lt;dd&amp;gt;Does *not* work **very** well. Use HTML &amp;lt;em&amp;gt;tags&amp;lt;/em&amp;gt;.&amp;lt;/dd&amp;gt;
-&lt;/code>&lt;/pre>
-&lt;!-- raw HTML omitted -->
-&lt;h2 id="links">Links&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">I&amp;#39;m an inline-style link&lt;/span>](&lt;span style="color:#a6e22e">https://www.google.com&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">I&amp;#39;m an inline-style link with title&lt;/span>](&lt;span style="color:#a6e22e">https://www.google.com &amp;#34;Google&amp;#39;s Homepage&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[I&amp;#39;m a reference-style link][Arbitrary case-insensitive reference text]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">I&amp;#39;m a relative reference to a repository file&lt;/span>](&lt;span style="color:#a6e22e">../blob/master/LICENSE&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[You can use numbers for reference-style link definitions][1]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Or leave it empty and use the [link text itself]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Some text to show that the reference links can follow later.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[arbitrary case-insensitive reference text]: https://hexo.io
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[1]: https://hexo.io/docs/
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[link text itself]: https://hexo.io/api/
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="https://www.google.com">I&amp;rsquo;m an inline-style link&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.google.com" title="Google's Homepage">I&amp;rsquo;m an inline-style link with title&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://hexo.io">I&amp;rsquo;m a reference-style link&lt;/a>&lt;/p>
-&lt;p>&lt;a href="../blob/master/LICENSE">I&amp;rsquo;m a relative reference to a repository file&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://hexo.io/docs/">You can use numbers for reference-style link definitions&lt;/a>&lt;/p>
-&lt;p>Or leave it empty and use the &lt;a href="https://hexo.io/api/">link text itself&lt;/a>&lt;/p>
-&lt;p>Some text to show that the reference links can follow later.&lt;/p>
-&lt;h2 id="images">Images&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>hover to see the title text:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Inline-style:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">alt text&lt;/span>](&lt;span style="color:#a6e22e">https://hexo.io/icon/favicon-196x196.png &amp;#34;Logo Title Text 1&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Reference-style:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![alt text][logo]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[logo]: https://hexo.io/icon/favicon-196x196.png &amp;#34;Logo Title Text 2&amp;#34;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>hover to see the title text:&lt;/p>
-&lt;p>Inline-style:&lt;/p>
-&lt;p>&lt;img alt="alt text" src="https://hexo.io/icon/favicon-196x196.png" title="Logo Title Text 1">&lt;/p>
-&lt;p>Reference-style:
-&lt;img alt="alt text" src="https://hexo.io/icon/favicon-196x196.png" title="Logo Title Text 2">&lt;/p>
-&lt;h2 id="code-and-syntax-highlighting">Code and Syntax Highlighting&lt;/h2>
-&lt;p>Inline &lt;code>code&lt;/code> has &lt;code>back-ticks around&lt;/code> it.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">s&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;JavaScript syntax highlighting&amp;#34;&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">alert&lt;/span>(&lt;span style="color:#a6e22e">s&lt;/span>);
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>s &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Python syntax highlighting&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>print s
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>No language indicated, so no syntax highlighting.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#f92672&#34;&gt;I&amp;#39;m an inline-style link&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;https://www.google.com&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#f92672&#34;&gt;I&amp;#39;m an inline-style link with title&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;https://www.google.com &amp;#34;Google&amp;#39;s Homepage&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[I&amp;#39;m a reference-style link][Arbitrary case-insensitive reference text]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#f92672&#34;&gt;I&amp;#39;m a relative reference to a repository file&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;../blob/master/LICENSE&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[You can use numbers for reference-style link definitions][1]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Or leave it empty and use the [link text itself]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Some text to show that the reference links can follow later.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[arbitrary case-insensitive reference text]: https://hexo.io
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[1]: https://hexo.io/docs/
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[link text itself]: https://hexo.io/api/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;I&amp;rsquo;m an inline-style link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34; title=&#34;Google&#39;s Homepage&#34;&gt;I&amp;rsquo;m an inline-style link with title&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexo.io&#34;&gt;I&amp;rsquo;m a reference-style link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../blob/master/LICENSE&#34;&gt;I&amp;rsquo;m a relative reference to a repository file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexo.io/docs/&#34;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or leave it empty and use the &lt;a href=&#34;https://hexo.io/api/&#34;&gt;link text itself&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hover to see the title text:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Inline-style:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;alt text&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;https://hexo.io/icon/favicon-196x196.png &amp;#34;Logo Title Text 1&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Reference-style:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![alt text][logo]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[logo]: https://hexo.io/icon/favicon-196x196.png &amp;#34;Logo Title Text 2&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;hover to see the title text:&lt;/p&gt;
+&lt;p&gt;Inline-style:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; src=&#34;https://hexo.io/icon/favicon-196x196.png&#34; title=&#34;Logo Title Text 1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Reference-style:
+&lt;img alt=&#34;alt text&#34; src=&#34;https://hexo.io/icon/favicon-196x196.png&#34; title=&#34;Logo Title Text 2&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt; has &lt;code&gt;back-ticks around&lt;/code&gt; it.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;s&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;JavaScript syntax highlighting&amp;#34;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;alert&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;s&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;s &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Python syntax highlighting&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print s
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
 But let&amp;#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-&lt;/code>&lt;/pre>&lt;h2 id="tables">Tables&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>| |ASCII |HTML |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|----------------|-------------------------------|-----------------------------|
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|Single backticks|`&amp;#39;Isn&amp;#39;t this fun?&amp;#39;` |&amp;#39;Isn&amp;#39;t this fun?&amp;#39; |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|Quotes |`&amp;#34;Isn&amp;#39;t this fun?&amp;#34;` |&amp;#34;Isn&amp;#39;t this fun?&amp;#34; |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|Dashes |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>&lt;/th>
-&lt;th>ASCII&lt;/th>
-&lt;th>HTML&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Single backticks&lt;/td>
-&lt;td>&lt;code>'Isn't this fun?'&lt;/code>&lt;/td>
-&lt;td>&amp;lsquo;Isn&amp;rsquo;t this fun?&amp;rsquo;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Quotes&lt;/td>
-&lt;td>&lt;code>&amp;quot;Isn't this fun?&amp;quot;&lt;/code>&lt;/td>
-&lt;td>&amp;ldquo;Isn&amp;rsquo;t this fun?&amp;rdquo;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Dashes&lt;/td>
-&lt;td>&lt;code>-- is en-dash, --- is em-dash&lt;/code>&lt;/td>
-&lt;td>&amp;ndash; is en-dash, &amp;mdash; is em-dash&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Colons can be used to align columns.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>| Tables | Are | Cool |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| ------------- |:-------------:| -----:|
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| col 3 is | right-aligned | |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| col 2 is | centered | |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| zebra stripes | are neat |
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Tables&lt;/th>
-&lt;th style="text-align:center">Are&lt;/th>
-&lt;th style="text-align:right">Cool&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>col 3 is&lt;/td>
-&lt;td style="text-align:center">right-aligned&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>col 2 is&lt;/td>
-&lt;td style="text-align:center">centered&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>zebra stripes&lt;/td>
-&lt;td style="text-align:center">are neat&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>The outer pipes (|) are optional, and you don&amp;rsquo;t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Markdown | Less | Pretty
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>--- | --- | ---
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-style:italic">*Still*&lt;/span> | &lt;span style="color:#e6db74">`renders`&lt;/span> | &lt;span style="font-weight:bold">**nicely**&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>1 | 2 | 3
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Markdown&lt;/th>
-&lt;th>Less&lt;/th>
-&lt;th>Pretty&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;em>Still&lt;/em>&lt;/td>
-&lt;td>&lt;code>renders&lt;/code>&lt;/td>
-&lt;td>&lt;strong>nicely&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1&lt;/td>
-&lt;td>2&lt;/td>
-&lt;td>3&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;blockquote>
-&lt;p>You can find more information about &lt;strong>LaTeX&lt;/strong> mathematical expressions &lt;a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here&lt;/a>.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="blockquotes">Blockquotes&lt;/h2>
-&lt;blockquote>
-&lt;p>Blockquotes are very handy in email to emulate reply text.
-This line is part of the same quote.&lt;/p>
-&lt;/blockquote>
-&lt;p>Quote break.&lt;/p>
-&lt;blockquote>
-&lt;p>This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;rsquo;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em>put&lt;/em> &lt;strong>Markdown&lt;/strong> into a blockquote.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="horizontal-rule">Horizontal Rule&lt;/h2>
-&lt;p>Three or more&amp;hellip;&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>---
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Hyphens
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-style:italic">**&lt;/span>*
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Asterisks
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>___
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Underscores
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;p>Hyphens&lt;/p>
-&lt;hr>
-&lt;p>Asterisks&lt;/p>
-&lt;hr>
-&lt;p>Underscores&lt;/p>
-&lt;h2 id="line-breaks">Line Breaks&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Here&amp;#39;s a line for us to start with.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This line is separated from the one above by two newlines, so it will be a &lt;span style="font-style:italic">*separate paragraph*&lt;/span>.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This line is also a separate paragraph, but...
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This line is only separated by a single newline, so it&amp;#39;s a separate line in the &lt;span style="font-style:italic">*same paragraph*&lt;/span>.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Here&amp;rsquo;s a line for us to start with.&lt;/p>
-&lt;p>This line is separated from the one above by two newlines, so it will be a &lt;em>separate paragraph&lt;/em>.&lt;/p>
-&lt;p>This line is also a separate paragraph, but&amp;hellip;
-This line is only separated by a single newline, so it&amp;rsquo;s a separate line in the &lt;em>same paragraph&lt;/em>.&lt;/p>
-&lt;hr>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>This is a regular paragraph.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">table&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">tr&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">td&lt;/span>&amp;gt;Foo&amp;lt;/&lt;span style="color:#f92672">td&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;/&lt;span style="color:#f92672">tr&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">table&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is another regular paragraph.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This is a regular paragraph.&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>This is another regular paragraph.&lt;/p>
-&lt;h2 id="youtube-videos">Youtube videos&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">a&lt;/span> &lt;span style="color:#a6e22e">href&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://www.youtube.com/watch?feature=player_embedded&amp;amp;v=ARted4RniaU
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">target&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;_blank&amp;#34;&lt;/span>&amp;gt;&amp;lt;&lt;span style="color:#f92672">img&lt;/span> &lt;span style="color:#a6e22e">src&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://img.youtube.com/vi/ARted4RniaU/0.jpg&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">alt&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;IMAGE ALT TEXT HERE&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">width&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;240&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">height&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;180&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">border&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;10&amp;#34;&lt;/span> /&amp;gt;&amp;lt;/&lt;span style="color:#f92672">a&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Pure markdown version:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">![IMAGE ALT TEXT HERE&lt;/span>](&lt;span style="color:#a6e22e">https://img.youtube.com/vi/ARted4RniaU/0.jpg&lt;/span>)](https://www.youtube.com/watch?v=ARted4RniaU)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>Pure markdown version:&lt;/p>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=ARted4RniaU">&lt;img alt="IMAGE ALT TEXT HERE" src="https://img.youtube.com/vi/ARted4RniaU/0.jpg">&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;|                |ASCII                          |HTML                         |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;|----------------|-------------------------------|-----------------------------|
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;|Single backticks|`&amp;#39;Isn&amp;#39;t this fun?&amp;#39;`            |&amp;#39;Isn&amp;#39;t this fun?&amp;#39;            |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;|Quotes          |`&amp;#34;Isn&amp;#39;t this fun?&amp;#34;`            |&amp;#34;Isn&amp;#39;t this fun?&amp;#34;            |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;ASCII&lt;/th&gt;
+&lt;th&gt;HTML&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Single backticks&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&#39;Isn&#39;t this fun?&#39;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&amp;lsquo;Isn&amp;rsquo;t this fun?&amp;rsquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Quotes&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;&amp;quot;Isn&#39;t this fun?&amp;quot;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Isn&amp;rsquo;t this fun?&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dashes&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;-- is en-dash, --- is em-dash&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ndash; is en-dash, &amp;mdash; is em-dash&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| Tables        | Are           | Cool  |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| ------------- |:-------------:| -----:|
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| col 3 is      | right-aligned |  |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| col 2 is      | centered      |    |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;| zebra stripes | are neat      |   
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tables&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Are&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Cool&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;col 3 is&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;right-aligned&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;col 2 is&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;centered&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;zebra stripes&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;are neat&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The outer pipes (|) are optional, and you don&amp;rsquo;t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Markdown | Less | Pretty
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;--- | --- | ---
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;*Still*&lt;/span&gt; | &lt;span style=&#34;color:#e6db74&#34;&gt;`renders`&lt;/span&gt; | &lt;span style=&#34;font-weight:bold&#34;&gt;**nicely**&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;1 | 2 | 3
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Markdown&lt;/th&gt;
+&lt;th&gt;Less&lt;/th&gt;
+&lt;th&gt;Pretty&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;renders&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can find more information about &lt;strong&gt;LaTeX&lt;/strong&gt; mathematical expressions &lt;a href=&#34;https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes are very handy in email to emulate reply text.
+This line is part of the same quote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Quote break.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;rsquo;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;horizontal-rule&#34;&gt;Horizontal Rule&lt;/h2&gt;
+&lt;p&gt;Three or more&amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Hyphens
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;**&lt;/span&gt;*
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Asterisks
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;___
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Underscores
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;p&gt;Hyphens&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Asterisks&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Underscores&lt;/p&gt;
+&lt;h2 id=&#34;line-breaks&#34;&gt;Line Breaks&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Here&amp;#39;s a line for us to start with.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;This line is separated from the one above by two newlines, so it will be a &lt;span style=&#34;font-style:italic&#34;&gt;*separate paragraph*&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;This line is also a separate paragraph, but...
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;This line is only separated by a single newline, so it&amp;#39;s a separate line in the &lt;span style=&#34;font-style:italic&#34;&gt;*same paragraph*&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Here&amp;rsquo;s a line for us to start with.&lt;/p&gt;
+&lt;p&gt;This line is separated from the one above by two newlines, so it will be a &lt;em&gt;separate paragraph&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This line is also a separate paragraph, but&amp;hellip;
+This line is only separated by a single newline, so it&amp;rsquo;s a separate line in the &lt;em&gt;same paragraph&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;This is a regular paragraph.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;table&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;tr&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;td&lt;/span&gt;&amp;gt;Foo&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;td&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;tr&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;table&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;This is another regular paragraph.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is a regular paragraph.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;This is another regular paragraph.&lt;/p&gt;
+&lt;h2 id=&#34;youtube-videos&#34;&gt;Youtube videos&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://www.youtube.com/watch?feature=player_embedded&amp;amp;v=ARted4RniaU
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;target&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_blank&amp;#34;&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;img&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;src&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://img.youtube.com/vi/ARted4RniaU/0.jpg&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;alt&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;IMAGE ALT TEXT HERE&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;width&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;240&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;height&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;180&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;border&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;10&amp;#34;&lt;/span&gt; /&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Pure markdown version:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#f92672&#34;&gt;![IMAGE ALT TEXT HERE&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;https://img.youtube.com/vi/ARted4RniaU/0.jpg&lt;/span&gt;)](https://www.youtube.com/watch?v=ARted4RniaU)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Pure markdown version:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ARted4RniaU&#34;&gt;&lt;img alt=&#34;IMAGE ALT TEXT HERE&#34; src=&#34;https://img.youtube.com/vi/ARted4RniaU/0.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
