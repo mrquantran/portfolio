@@ -1,13 +1,14 @@
 ---
 title: How to integrate umami to your website for free
-date: 2022-08-14T21:34:36+08:00
+date: 2021-03-14T21:34:36+08:00
 tags: ["hugo", "ladder", "Tutorial", "analytics", "umami"]
 series: ["how to create your blog"]
-featured: true
+image: "https://cdn.jsdelivr.net/gh/guangzhengli/PicURL@master/uPic/OZcU7U.png"
+desc: "This article is about how to integrate umami website analytics to your website for free."
+featured: false
 ---
-This article is about how to integrate [umami](https://umami.is/) website analytics to your website for free. The database use  [postgres](https://supabase.com/docs/guides/database) with 500M storage limit provided by [supabase](https://app.supabase.com/).
 
-The [umami](https://umami.is/) service is hosted with [vercel](https://vercel.com/). Thanks to the excellent service capabilities of cloud vendors, you can integrate *umami* in less than 10 minutes. You can see the umami dashboard by clicking the [Dashboard](https://umami-ochre-nu.vercel.app/share/o3zAba1V/guangzhengli).
+--
 
 <!--more-->
 
