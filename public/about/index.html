@@ -108,6 +108,7 @@ if (!doNotTrack) {
     <script src="/portfolio/js/highlight.min.min.c607d6febd16934a82eb61d3a896ed9d869f54373cc63ce95864ed5488fe3128.js"></script>
     <script>hljs.highlightAll();</script>
 
+
     <script>(()=>{var t=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches,e=localStorage.getItem("theme");t&&e===null&&(localStorage.setItem("theme","dark"),document.documentElement.setAttribute("data-dark-mode","")),t&&e==="dark"&&document.documentElement.setAttribute("data-dark-mode",""),e==="dark"&&document.documentElement.setAttribute("data-dark-mode","")})()</script>
     </head>
 <body>
@@ -182,6 +183,10 @@ if (!doNotTrack) {
         
     </section>
 </nav>
+
+
+
+
 <div id="content">
 <article class="blog-single">
   <header class="blog-title">
@@ -218,8 +223,44 @@ the books in the middle opened a new world for me</p>
 
 
 </article>
-
-        </div><footer class="footer">
+<div
+  id="search-wrapper"
+  class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
+  data-url="http://localhost:1313/portfolio/"
+  style="z-index:500"
+>
+  <div
+    id="search-modal"
+    class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+  >
+    <header class="relative z-10 flex items-center justify-between flex-none px-2">
+      <form class="flex items-center flex-auto min-w-0">
+    
+        <input
+          type="search"
+          id="search-query"
+          class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
+          placeholder=""
+          tabindex="0"
+        />
+      </form>
+      
+      <button
+        type="button"
+        id="close-search-button"
+        title=""
+      >
+            <span class="toggle-dark"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></span>
+      </button>
+    </header>
+    <section class="flex-auto px-2 overflow-auto">
+      <ul id="search-results">
+        
+      </ul>
+    </section>
+  </div>
+</div>
+</div><footer class="footer">
   <p>&copy; 2024 <a href="http://localhost:1313/portfolio/">quan</a>
     Powered by
     <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>
@@ -244,6 +285,12 @@ the books in the middle opened a new world for me</p>
         }
     };
 </script>
+
+
+<script src="/portfolio/js/fuse.min.min.9c77fe122996bc57fcc9465a469d9e5b917054338cc16807bbedb39f36d0a37f.js"></script>
+    
+
+<script src="/portfolio/js/search.min.ae447e970eb58b3fa26b06a8fabecd6d2fa462af0e70dd8cf6298cef271506a7.js"></script>
 
 <script>
     document.querySelectorAll('pre > code').forEach((codeblock) => {

@@ -24,6 +24,12 @@
     };
 </script>
 
+{{ $fusejs := resources.Get "js/fuse.min.js" | minify | fingerprint }}
+<script src="{{ $fusejs.RelPermalink }}"></script>
+    
+{{ $searchjs := resources.Get "js/search.js" | minify | fingerprint }}
+<script src="{{ $searchjs.RelPermalink }}"></script>
+
 <script>
     document.querySelectorAll('pre > code').forEach((codeblock) => {
         const container = codeblock.parentNode.parentNode;

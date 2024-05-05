@@ -6,6 +6,7 @@
         {{- partial "header.html" . -}}
         <div id="content">
           {{- block "content" . }}{{- end }}
+          {{- partial "search.html" . -}}
         </div>
         {{- partial "footer.html" . -}}
       </main>
