@@ -571,7 +571,8 @@ img {
       .navigation .navigation-list .navigation-dark button {
         border: none;
         background: none;
-        cursor: pointer; }
+        cursor: pointer;
+        padding: 0; }
       .navigation .navigation-list .navigation-dark .toggle-dark {
         display: block; }
       .navigation .navigation-list .navigation-dark .toggle-light {
