@@ -4,7 +4,7 @@ theme = "hugo-theme-ladder"
 license = "MIT"
 licenselink = "https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE"
 description = "A fast, clean Hugo theme"
-homepage = "https://hugo-ladder.pages.dev"
+homepage = "https://quan238.github.io/portfolio-new/"
 defaultContentLanguage = "en"
 googleAnalytics = "G-xxx"
 paginate = 10
@@ -37,11 +37,11 @@ weight = 5
 
 [params]
 brand = "HOME"
-avatarURL = "/images/avatar.jpg"
+avatarURL = "https://quan238.github.io/portfolio-new/images/avatar.jpg"
 author = "Quan, Tran Hong"
 authorDescription = "Data, Machine, Software Engineering"
 info = "Ladder is a clean, simple but beautiful theme with awesome features"
-favicon = "/favicon.png"
+favicon = "/images/favicon.png"
 darkModeTheme = "data-dark-mode"
 
   [params.options]

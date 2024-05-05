@@ -46,7 +46,7 @@ jobs:
         uses: actions/configure-pages@v1
       - name: Build with Hugo
         run: |
-          hugo \
+          rm -rf ./public && hugo \
             --minify \
             --baseURL ${{ steps.pages.outputs.base_url }}
       - name: Upload artifact
