@@ -51,8 +51,8 @@ darkModeTheme = "data-dark-mode"
   showMetaTags = true
 
 [params.comments.utteranc]
-enable = false
-repo = "username/reponame"
+enable = true
+repo = "quan238/portfolio-new"
 issueTerm = "pathname"
 
 [params.analytics.google]
