@@ -13,7 +13,7 @@
       <pubDate>Sun, 24 Dec 2023 23:29:08 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/blog/1/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt&#34; src=&#34;http://localhost:1313/portfolio/portfolio/blog/1/featured.jpg&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;./featured.jpg&#34; src=&#34;http://localhost:1313/portfolio/portfolio/blog/1/featured.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Finland consistently ranks as one of the happiest countries in the world, and there&amp;rsquo;s a lot to learn from their way of life. Here&amp;rsquo;s a glimpse into what makes Finland tick:&lt;/p&gt;
 &lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
@@ -87,7 +87,7 @@
       <pubDate>Mon, 24 Jul 2023 23:31:06 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio/blog/2/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;alt&#34; src=&#34;http://localhost:1313/portfolio/portfolio/blog/2/featured2.jpg&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;./featured2.jpg&#34; src=&#34;http://localhost:1313/portfolio/portfolio/blog/2/featured2.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This post is originated from and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;headers&#34;&gt;Headers&lt;/h2&gt;
