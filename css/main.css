@@ -611,9 +611,10 @@ img {
       .navigation .menu-button {
         position: relative;
         display: block;
-        font-size: 2.4rem;
+        font-size: 3rem;
         font-weight: 400;
-        float: right; }
+        float: right;
+        padding-top: 0.5rem; }
         .navigation .menu-button span {
           display: block;
           background: #212121;
@@ -1027,9 +1028,11 @@ figure {
         min-width: 0;
         display: flex; }
         #search-wrapper #search-modal header form #search-query {
+          width: 100%;
+          font-size: 1.25em;
           appearance: none;
           flex: auto;
-          height: 3rem;
+          height: 4rem;
           display: flex;
           margin-left: .25rem;
           margin-right: .25rem;
@@ -1040,7 +1043,6 @@ figure {
           padding-right: .75rem;
           padding-bottom: .5rem;
           padding-left: .75rem;
-          font-size: 1rem;
           line-height: 1.5rem;
           outline-offset: -2px;
           margin: 0; }
