@@ -1,12 +1,26 @@
 .card-wrapper {
   position: relative;
-  max-width: 80rem;
+  max-width: 120rem;
   margin: auto;
   padding: 1.5rem;
 
   a {
     &:link {
       text-decoration: none;
+    }
+  }
+
+  .card-list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+    
+    /* 4 columns of equal width */
+    gap: 2rem;
+
+    @media only screen and (max-width: 768px) {
+      grid-template-columns: repeat(1, 1fr);
+      gap: 0rem;
     }
   }
 
@@ -19,7 +33,7 @@
     background-color: #fff;
     overflow: hidden;
     transition: box-shadow .2s;
-    margin-bottom: 5rem;
+    margin-bottom: 1.5rem;
 
     &:hover {
       box-shadow: 0 6px 12px -4px #001b4433;

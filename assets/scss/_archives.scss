@@ -22,6 +22,10 @@
     @media only screen and (max-width: 768px) {
         margin-top: 1rem;
     }
+
+    &:not(:first-child) {
+        border-top: 1px dashed #6c757d;
+    }
 }
 
 .archive-month {
