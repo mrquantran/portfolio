@@ -5,7 +5,7 @@
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%;
+  font-size: 78%;
   scroll-behavior: smooth; }
 
 body {
@@ -910,11 +910,20 @@ figure {
 
 .card-wrapper {
   position: relative;
-  max-width: 80rem;
+  max-width: 120rem;
   margin: auto;
   padding: 1.5rem; }
   .card-wrapper a:link {
     text-decoration: none; }
+  .card-wrapper .card-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* 4 columns of equal width */
+    gap: 1.2rem; }
+    @media only screen and (max-width: 768px) {
+      .card-wrapper .card-list {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 0rem; } }
   .card-wrapper .card {
     position: relative;
     display: flex;
