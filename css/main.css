@@ -919,7 +919,7 @@ figure {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     /* 4 columns of equal width */
-    gap: 1.5rem; }
+    gap: 2rem; }
     @media only screen and (max-width: 768px) {
       .card-wrapper .card-list {
         grid-template-columns: repeat(1, 1fr);
@@ -933,7 +933,7 @@ figure {
     background-color: #fff;
     overflow: hidden;
     transition: box-shadow .2s;
-    margin-bottom: 5rem; }
+    margin-bottom: 1.5rem; }
     .card-wrapper .card:hover {
       box-shadow: 0 6px 12px -4px #001b4433; }
     .card-wrapper .card p {
