@@ -73,6 +73,7 @@ h6 {
 h1 {
   font-size: 3.2rem;
   line-height: 3.6rem;
+  color: #F4A261 !important;
 
   @media only screen and (max-width: 768px) {
     font-size: 3rem;
@@ -83,6 +84,7 @@ h1 {
 h2 {
   font-size: 2.8rem;
   line-height: 3.2rem;
+  color: #E9C46A !important;
 
   @media only screen and (max-width: 768px) {
     font-size: 2.6rem;
@@ -93,6 +95,7 @@ h2 {
 h3 {
   font-size: 2.4rem;
   line-height: 2.8rem;
+  color: #2A9D8F!important;
 
   @media only screen and (max-width: 768px) {
     font-size: 2.2rem;
@@ -136,7 +139,7 @@ strong {
 }
 
 small {
-  font-size: 70%;
+  font-size: 75%;
 }
 
 

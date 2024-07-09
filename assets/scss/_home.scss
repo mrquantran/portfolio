@@ -17,7 +17,7 @@
     .intro {
       margin-top: 0.5rem;
       float: left;
-      height: 20rem;
+      height: fit-content;
       width: 70%;
 
       h1 {
@@ -51,8 +51,9 @@
       display: flex;
       align-items: center;
       justify-content: center;
+
       img {
-        height: 15rem;
+        height: 18rem;
         border-radius: 50%;
 
         @media only screen and (max-width: 768px) {
@@ -68,6 +69,7 @@
 
     }
   }
+
   .featured {
     margin-left: 2rem;
     margin-right: 2rem;
@@ -92,5 +94,27 @@
 
   .image {
     transform: scale(0.5);
+  }
+}
+
+.tag {
+  display: inline-block;
+  border-radius: .375rem;
+  border-style: none;
+  font-size: .75rem;
+  line-height: 1rem;
+  --tw-text-opacity: 1;
+  color: #fff;
+  background: #6675e0;
+  padding: .5rem .75rem .5rem;
+
+  a {
+    display:flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  &:hover{
+    background: #4f5baf;
   }
 }
