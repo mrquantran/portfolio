@@ -1,751 +1,127 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>quan</title><link>https://mrquantran.github.io/portfolio/</link><description>Recent content on quan</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 24 Dec 2023 23:29:08 +0000</lastBuildDate><atom:link href="https://mrquantran.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>The lifestyle in Finland</title><link>https://mrquantran.github.io/portfolio/blog/1/</link><pubDate>Sun, 24 Dec 2023 23:29:08 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/1/</guid><description>&lt;p>&lt;img alt="./featured.jpg" src="https://mrquantran.github.io/portfolio/portfolio/blog/1/featured.jpg">&lt;/p>
-&lt;p>Finland consistently ranks as one of the happiest countries in the world, and there&amp;rsquo;s a lot to learn from their way of life. Here&amp;rsquo;s a glimpse into what makes Finland tick:&lt;/p>
-&lt;h1 id="heading-1">Heading 1&lt;/h1>
-&lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;h3 id="heading-3">Heading 3&lt;/h3>
-&lt;h4 id="heading-4">Heading 4&lt;/h4>
-&lt;h5 id="heading-5">Heading 5&lt;/h5>
-&lt;h6 id="heading-6">Heading 6&lt;/h6>
-&lt;hr>
-&lt;h2 id="paragraph">Paragraph&lt;/h2>
-&lt;p>Lorem ipsum dolor sit amet, &lt;a href="https://mrquantran.github.io/portfolio/portfolio/">test link&lt;/a> consectetur adipiscing elit. &lt;strong>Strong text&lt;/strong> pellentesque ligula commodo viverra vehicula. &lt;em>Italic text&lt;/em> at ullamcorper enim. Morbi a euismod nibh. &lt;!-- raw HTML omitted -->Underline text&lt;!-- raw HTML omitted --> non elit nisl. &lt;del>Deleted text&lt;/del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p>
-&lt;p>Interdum et malesuada fames ac ante ipsum primis in faucibus. &lt;code>Sed erat diam&lt;/code>, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p>
-&lt;blockquote>
-&lt;p>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p>
-&lt;/blockquote>
-&lt;p>Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.&lt;/p>
-&lt;h2 id="list-types">List Types&lt;/h2>
-&lt;h3 id="definition-list-dl">Definition List (dl)&lt;/h3>
-&lt;!-- raw HTML omitted -->
-&lt;h3 id="ordered-list-ol">Ordered List (ol)&lt;/h3>
-&lt;ol>
-&lt;li>List Item 1&lt;/li>
-&lt;li>List Item 2&lt;/li>
-&lt;li>List Item 3&lt;/li>
-&lt;/ol>
-&lt;h3 id="unordered-list-ul">Unordered List (ul)&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>quan</title><link>https://mrquantran.github.io/portfolio/</link><description>Recent content on quan</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 24 Feb 2024 23:29:08 +0000</lastBuildDate><atom:link href="https://mrquantran.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>My Roadmap for studying AI Engineering</title><link>https://mrquantran.github.io/portfolio/blog/my_roadmap_in_ai_engineering/</link><pubDate>Sat, 24 Feb 2024 23:29:08 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/my_roadmap_in_ai_engineering/</guid><description>&lt;p>This blog post outlines my roadmap for studying AI Engineering, detailing the steps I plan to take, the resources I intend to use, and the milestones I aim to achieve.&lt;/p>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Artificial Intelligence (AI) is revolutionizing industries across the globe, and I am eager to be part of this transformative journey. This blog post outlines my roadmap for studying AI Engineering, detailing the steps I plan to take, the resources I intend to use, and the milestones I aim to achieve.&lt;/p>
+&lt;h2 id="step-1-setting-clear-goals">Step 1: Setting Clear Goals&lt;/h2>
+&lt;h3 id="short-term-goals">Short-Term Goals&lt;/h3>
 &lt;ul>
-&lt;li>List Item 1&lt;/li>
-&lt;li>List Item 2&lt;/li>
-&lt;li>List Item 3&lt;/li>
+&lt;li>&lt;strong>Understand the Fundamentals&lt;/strong>: Gain a strong foundation in mathematics, programming, and basic AI concepts.&lt;/li>
+&lt;li>&lt;strong>Complete Online Courses&lt;/strong>: Enroll in and complete introductory AI courses on platforms like Coursera, edX, and Udacity.&lt;/li>
+&lt;li>&lt;strong>Build Simple Projects&lt;/strong>: Apply what I&amp;rsquo;ve learned by working on small AI projects and experiments.&lt;/li>
 &lt;/ul>
-&lt;h3 id="checkbox-list-ul">Checkbox List (ul)&lt;/h3>
+&lt;h3 id="long-term-goals">Long-Term Goals&lt;/h3>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> List Item 1 unchecked&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> List Item 2 checked&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> List Item 3 checked&lt;/li>
+&lt;li>&lt;strong>Earn a Degree&lt;/strong>: Pursue a formal education in AI Engineering, either through a bachelor&amp;rsquo;s or master&amp;rsquo;s program.&lt;/li>
+&lt;li>&lt;strong>Develop Advanced Skills&lt;/strong>: Specialize in areas such as machine learning, deep learning, and natural language processing.&lt;/li>
+&lt;li>&lt;strong>Contribute to Open-Source Projects&lt;/strong>: Engage with the AI community by contributing to open-source AI projects.&lt;/li>
 &lt;/ul>
-&lt;h2 id="table">Table&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Table Header 1&lt;/th>
-&lt;th>Table Header 2&lt;/th>
-&lt;th>Table Header 3&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Division 1&lt;/td>
-&lt;td>Division 2&lt;/td>
-&lt;td>Division 3&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Division 1&lt;/td>
-&lt;td>Division 2&lt;/td>
-&lt;td>Division 3&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Division 1&lt;/td>
-&lt;td>Division 2&lt;/td>
-&lt;td>Division 3&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="misc-stuff---abbr-acronym-sub-sup-kbd-etc">Misc Stuff - abbr, acronym, sub, sup, kbd, etc.&lt;/h2>
-&lt;p>Lorem &lt;!-- raw HTML omitted -->superscript&lt;!-- raw HTML omitted --> dolor &lt;!-- raw HTML omitted -->subscript&lt;!-- raw HTML omitted --> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;!-- raw HTML omitted -->cite&lt;!-- raw HTML omitted -->. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &lt;!-- raw HTML omitted -->NBA&lt;!-- raw HTML omitted --> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. &lt;!-- raw HTML omitted -->AVE&lt;!-- raw HTML omitted -->. Use &lt;!-- raw HTML omitted -->Crtl&lt;!-- raw HTML omitted --> + &lt;!-- raw HTML omitted -->C&lt;!-- raw HTML omitted --> to stop.&lt;/p></description></item><item><title>Moving From Vietnam to Finland</title><link>https://mrquantran.github.io/portfolio/blog/2/</link><pubDate>Mon, 24 Jul 2023 23:31:06 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/2/</guid><description>&lt;p>&lt;img alt="./featured2.jpg" src="https://mrquantran.github.io/portfolio/portfolio/blog/2/featured2.jpg">&lt;/p>
-&lt;p>This post is originated from and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p>
-&lt;hr>
-&lt;h2 id="headers">Headers&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span># H1
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">## H2
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">### H3
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#### H4
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">##### H5
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">###### H6
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Alternatively, for H1 and H2, an underline-ish style:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Alt-H1
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>======
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Alt-H2
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>------
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="h1">H1&lt;/h1>
-&lt;h2 id="h2">H2&lt;/h2>
-&lt;h3 id="h3">H3&lt;/h3>
-&lt;h4 id="h4">H4&lt;/h4>
-&lt;h5 id="h5">H5&lt;/h5>
-&lt;h6 id="h6">H6&lt;/h6>
-&lt;p>Alternatively, for H1 and H2, an underline-ish style:&lt;/p>
-&lt;h1 id="alt-h1">Alt-H1&lt;/h1>
-&lt;h2 id="alt-h2">Alt-H2&lt;/h2>
-&lt;h2 id="emphasis">Emphasis&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Emphasis, aka italics, with &lt;span style="font-style:italic">*asterisks*&lt;/span> or &lt;span style="font-style:italic">_underscores_&lt;/span>.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Strong emphasis, aka bold, with &lt;span style="font-weight:bold">**asterisks**&lt;/span> or &lt;span style="font-weight:bold">__underscores__&lt;/span>.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Combined emphasis with &lt;span style="font-weight:bold">**asterisks and _underscores_**&lt;/span>.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Strikethrough uses two tildes. &lt;span style="color:#f92672">~~Scratch this.~~&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Emphasis, aka italics, with &lt;em>asterisks&lt;/em> or &lt;em>underscores&lt;/em>.&lt;/p>
-&lt;p>Strong emphasis, aka bold, with &lt;strong>asterisks&lt;/strong> or &lt;strong>underscores&lt;/strong>.&lt;/p>
-&lt;p>Combined emphasis with &lt;strong>asterisks and &lt;em>underscores&lt;/em>&lt;/strong>.&lt;/p>
-&lt;p>Strikethrough uses two tildes. &lt;del>Scratch this.&lt;/del>&lt;/p>
-&lt;h2 id="lists">Lists&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">1.&lt;/span> First ordered list item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">2.&lt;/span> Another item
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">*&lt;/span> Unordered sub-list.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">1.&lt;/span> Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">1.&lt;/span> Ordered sub-list
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">4.&lt;/span> And another item.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;#39;ll use three here to also align the raw Markdown).
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> To have a line break without a paragraph, you will need to use two trailing spaces.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Note that this line is separate, but within the same paragraph.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered list can use asterisks
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">-&lt;/span> Or minuses
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>+ Or pluses
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">-&lt;/span> Paragraph In unordered list
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> For example like this.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Common Paragraph with some text.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>And more text.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol>
-&lt;li>First ordered list item&lt;/li>
-&lt;li>Another item&lt;/li>
-&lt;/ol>
+&lt;h2 id="step-2-acquiring-essential-knowledge">Step 2: Acquiring Essential Knowledge&lt;/h2>
+&lt;h3 id="mathematics">Mathematics&lt;/h3>
+&lt;p>A strong grasp of mathematics is crucial for AI. I will focus on:&lt;/p>
 &lt;ul>
-&lt;li>Unordered sub-list.&lt;/li>
+&lt;li>&lt;strong>Linear Algebra&lt;/strong>: Understanding vectors, matrices, and their applications.&lt;/li>
+&lt;li>&lt;strong>Calculus&lt;/strong>: Learning about derivatives, integrals, and optimization techniques.&lt;/li>
+&lt;li>&lt;strong>Probability and Statistics&lt;/strong>: Grasping the concepts of probability distributions, statistical inference, and hypothesis testing.&lt;/li>
 &lt;/ul>
-&lt;ol>
-&lt;li>
-&lt;p>Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number&lt;/p>
+&lt;h3 id="programming-skills">Programming Skills&lt;/h3>
+&lt;p>Proficiency in programming is a must for AI Engineering. My plan includes:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Python&lt;/strong>: Mastering Python, the primary language used in AI development.&lt;/li>
+&lt;li>&lt;strong>Libraries and Frameworks&lt;/strong>: Familiarizing myself with key libraries and frameworks like NumPy, pandas, TensorFlow, and PyTorch.&lt;/li>
+&lt;/ul>
+&lt;h3 id="basic-ai-concepts">Basic AI Concepts&lt;/h3>
+&lt;p>Understanding the core concepts of AI, such as:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Machine Learning&lt;/strong>: Learning about supervised, unsupervised, and reinforcement learning.&lt;/li>
+&lt;li>&lt;strong>Neural Networks&lt;/strong>: Exploring the architecture and functioning of neural networks and deep learning models.&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-3-enrolling-in-online-courses-and-certifications">Step 3: Enrolling in Online Courses and Certifications&lt;/h2>
+&lt;h3 id="recommended-courses">Recommended Courses&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Coursera&lt;/strong>:
+&lt;ul>
+&lt;li>Machine Learning by Andrew Ng&lt;/li>
+&lt;li>Deep Learning Specialization by Andrew Ng and team&lt;/li>
+&lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>Ordered sub-list&lt;/p>
+&lt;li>&lt;strong>edX&lt;/strong>:
+&lt;ul>
+&lt;li>AI for Everyone by Andrew Ng&lt;/li>
+&lt;li>Principles of Machine Learning by Microsoft&lt;/li>
+&lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>And another item.&lt;/p>
-&lt;p>You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;rsquo;ll use three here to also align the raw Markdown).&lt;/p>
-&lt;p>To have a line break without a paragraph, you will need to use two trailing spaces.&lt;br>
-Note that this line is separate, but within the same paragraph.&lt;br>
-(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)&lt;/p>
-&lt;/li>
-&lt;/ol>
+&lt;li>&lt;strong>Udacity&lt;/strong>:
 &lt;ul>
-&lt;li>Unordered list can use asterisks&lt;/li>
+&lt;li>AI Programming with Python&lt;/li>
+&lt;li>Deep Reinforcement Learning Nanodegree&lt;/li>
 &lt;/ul>
-&lt;ul>
-&lt;li>Or minuses&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>Or pluses&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>
-&lt;p>Paragraph In unordered list&lt;/p>
-&lt;p>For example like this.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;p>Common Paragraph with some text.
-And more text.&lt;/p>
-&lt;h2 id="inline-html">Inline HTML&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">p&lt;/span>&amp;gt;To reboot your computer, press &amp;lt;&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;ctrl&amp;lt;/&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;+&amp;lt;&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;alt&amp;lt;/&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;+&amp;lt;&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;del&amp;lt;/&lt;span style="color:#f92672">kbd&lt;/span>&amp;gt;.&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;!-- raw HTML omitted -->
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">dl&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">dt&lt;/span>&amp;gt;Definition list&amp;lt;/&lt;span style="color:#f92672">dt&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">dd&lt;/span>&amp;gt;Is something people use sometimes.&amp;lt;/&lt;span style="color:#f92672">dd&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">dt&lt;/span>&amp;gt;Markdown in HTML&amp;lt;/&lt;span style="color:#f92672">dt&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">dd&lt;/span>&amp;gt;Does &lt;span style="font-style:italic">*not*&lt;/span> work &lt;span style="font-weight:bold">**very**&lt;/span> well. Use HTML &amp;lt;&lt;span style="color:#f92672">em&lt;/span>&amp;gt;tags&amp;lt;/&lt;span style="color:#f92672">em&lt;/span>&amp;gt;.&amp;lt;/&lt;span style="color:#f92672">dd&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">dl&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;!-- raw HTML omitted -->
-&lt;pre>&lt;code>&amp;lt;dt&amp;gt;Markdown in HTML&amp;lt;/dt&amp;gt;
-&amp;lt;dd&amp;gt;Does *not* work **very** well. Use HTML &amp;lt;em&amp;gt;tags&amp;lt;/em&amp;gt;.&amp;lt;/dd&amp;gt;
-&lt;/code>&lt;/pre>
+&lt;h3 id="certifications">Certifications&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Google AI&lt;/strong>: Obtaining certifications such as TensorFlow Developer Certificate.&lt;/li>
+&lt;li>&lt;strong>Microsoft AI&lt;/strong>: Earning certifications through Microsoft’s AI Engineer program.&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-4-practical-experience-through-projects">Step 4: Practical Experience through Projects&lt;/h2>
+&lt;h3 id="building-projects">Building Projects&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Beginner Projects&lt;/strong>:
+&lt;ul>
+&lt;li>Handwritten digit recognition using MNIST dataset.&lt;/li>
+&lt;li>Simple chatbot using Natural Language Processing (NLP).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Intermediate Projects&lt;/strong>:
+&lt;ul>
+&lt;li>Image classification using Convolutional Neural Networks (CNNs).&lt;/li>
+&lt;li>Sentiment analysis on social media posts.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Advanced Projects&lt;/strong>:
+&lt;ul>
+&lt;li>Implementing Generative Adversarial Networks (GANs) for image generation.&lt;/li>
+&lt;li>Developing a recommendation system.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="contributing-to-open-source">Contributing to Open-Source&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>GitHub&lt;/strong>: Contributing to AI projects and collaborating with other developers.&lt;/li>
+&lt;li>&lt;strong>Kaggle&lt;/strong>: Participating in AI competitions and learning from the community.&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-5-pursuing-formal-education">Step 5: Pursuing Formal Education&lt;/h2>
+&lt;h3 id="bachelors-or-masters-degree">Bachelor&amp;rsquo;s or Master&amp;rsquo;s Degree&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Universities&lt;/strong>: Applying to universities with strong AI programs.&lt;/li>
+&lt;li>&lt;strong>Courses&lt;/strong>: Focusing on AI-specific courses and electives.&lt;/li>
+&lt;li>&lt;strong>Research&lt;/strong>: Engaging in AI research projects and internships.&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-6-joining-ai-communities-and-networks">Step 6: Joining AI Communities and Networks&lt;/h2>
+&lt;h3 id="online-communities">Online Communities&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Reddit&lt;/strong>: Joining subreddits like r/MachineLearning and r/ArtificialIntelligence.&lt;/li>
+&lt;li>&lt;strong>Stack Overflow&lt;/strong>: Participating in discussions and seeking advice from experienced AI engineers.&lt;/li>
+&lt;/ul>
+&lt;h3 id="professional-networks">Professional Networks&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: Connecting with AI professionals and following AI-related companies.&lt;/li>
+&lt;li>&lt;strong>Meetups and Conferences&lt;/strong>: Attending AI conferences, webinars, and local meetups to stay updated with the latest trends and network with peers.&lt;/li>
+&lt;/ul>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>The journey to becoming an AI Engineer is challenging but incredibly rewarding. By setting clear goals, acquiring essential knowledge, gaining practical experience, pursuing formal education, and joining AI communities, I am confident in my ability to succeed in this exciting field. I look forward to sharing my progress and insights as I embark on this roadmap to studying AI Engineering.&lt;/p></description></item><item><title>Leave my 2 years job and moving to Finland</title><link>https://mrquantran.github.io/portfolio/blog/lifestyle_in_finland/</link><pubDate>Sun, 24 Dec 2023 23:29:08 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/lifestyle_in_finland/</guid><description>&lt;p>&lt;img alt="./featured.jpg" src="https://mrquantran.github.io/portfolio/portfolio/blog/lifestyle_in_finland/featured.jpg">&lt;/p>
+&lt;p>Deciding to leave a stable job is never easy, especially when you&amp;rsquo;ve invested two years of your life into it. However, sometimes the call for change becomes too loud to ignore&lt;/p>
 &lt;!-- raw HTML omitted -->
-&lt;h2 id="links">Links&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">I&amp;#39;m an inline-style link&lt;/span>](&lt;span style="color:#a6e22e">https://www.google.com&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">I&amp;#39;m an inline-style link with title&lt;/span>](&lt;span style="color:#a6e22e">https://www.google.com &amp;#34;Google&amp;#39;s Homepage&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[I&amp;#39;m a reference-style link][Arbitrary case-insensitive reference text]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">I&amp;#39;m a relative reference to a repository file&lt;/span>](&lt;span style="color:#a6e22e">../blob/master/LICENSE&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[You can use numbers for reference-style link definitions][1]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Or leave it empty and use the [link text itself]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Some text to show that the reference links can follow later.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[arbitrary case-insensitive reference text]: https://hexo.io
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[1]: https://hexo.io/docs/
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[link text itself]: https://hexo.io/api/
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="https://www.google.com">I&amp;rsquo;m an inline-style link&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.google.com" title="Google&amp;#39;s Homepage">I&amp;rsquo;m an inline-style link with title&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://hexo.io">I&amp;rsquo;m a reference-style link&lt;/a>&lt;/p>
-&lt;p>&lt;a href="../blob/master/LICENSE">I&amp;rsquo;m a relative reference to a repository file&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://hexo.io/docs/">You can use numbers for reference-style link definitions&lt;/a>&lt;/p>
-&lt;p>Or leave it empty and use the &lt;a href="https://hexo.io/api/">link text itself&lt;/a>&lt;/p>
-&lt;p>Some text to show that the reference links can follow later.&lt;/p>
-&lt;h2 id="images">Images&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>hover to see the title text:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Inline-style:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">alt text&lt;/span>](&lt;span style="color:#a6e22e">https://hexo.io/icon/favicon-196x196.png &amp;#34;Logo Title Text 1&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Reference-style:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![alt text][logo]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[logo]: https://hexo.io/icon/favicon-196x196.png &amp;#34;Logo Title Text 2&amp;#34;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>hover to see the title text:&lt;/p>
-&lt;p>Inline-style:&lt;/p>
-&lt;p>&lt;img alt="alt text" src="https://hexo.io/icon/favicon-196x196.png" title="Logo Title Text 1">&lt;/p>
-&lt;p>Reference-style:
-&lt;img alt="alt text" src="https://hexo.io/icon/favicon-196x196.png" title="Logo Title Text 2">&lt;/p>
-&lt;h2 id="code-and-syntax-highlighting">Code and Syntax Highlighting&lt;/h2>
-&lt;p>Inline &lt;code>code&lt;/code> has &lt;code>back-ticks around&lt;/code> it.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">s&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;JavaScript syntax highlighting&amp;#34;&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">alert&lt;/span>(&lt;span style="color:#a6e22e">s&lt;/span>);
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>s &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Python syntax highlighting&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>print s
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>No language indicated, so no syntax highlighting.
-But let&amp;#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-&lt;/code>&lt;/pre>&lt;h2 id="tables">Tables&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>| |ASCII |HTML |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|----------------|-------------------------------|-----------------------------|
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|Single backticks|`&amp;#39;Isn&amp;#39;t this fun?&amp;#39;` |&amp;#39;Isn&amp;#39;t this fun?&amp;#39; |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|Quotes |`&amp;#34;Isn&amp;#39;t this fun?&amp;#34;` |&amp;#34;Isn&amp;#39;t this fun?&amp;#34; |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>|Dashes |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>&lt;/th>
-&lt;th>ASCII&lt;/th>
-&lt;th>HTML&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Single backticks&lt;/td>
-&lt;td>&lt;code>'Isn't this fun?'&lt;/code>&lt;/td>
-&lt;td>&amp;lsquo;Isn&amp;rsquo;t this fun?&amp;rsquo;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Quotes&lt;/td>
-&lt;td>&lt;code>&amp;quot;Isn't this fun?&amp;quot;&lt;/code>&lt;/td>
-&lt;td>&amp;ldquo;Isn&amp;rsquo;t this fun?&amp;rdquo;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Dashes&lt;/td>
-&lt;td>&lt;code>-- is en-dash, --- is em-dash&lt;/code>&lt;/td>
-&lt;td>&amp;ndash; is en-dash, &amp;mdash; is em-dash&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Colons can be used to align columns.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>| Tables | Are | Cool |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| ------------- |:-------------:| -----:|
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| col 3 is | right-aligned | |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| col 2 is | centered | |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| zebra stripes | are neat |
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Tables&lt;/th>
-&lt;th style="text-align:center">Are&lt;/th>
-&lt;th style="text-align:right">Cool&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>col 3 is&lt;/td>
-&lt;td style="text-align:center">right-aligned&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>col 2 is&lt;/td>
-&lt;td style="text-align:center">centered&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>zebra stripes&lt;/td>
-&lt;td style="text-align:center">are neat&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>The outer pipes (|) are optional, and you don&amp;rsquo;t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Markdown | Less | Pretty
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>--- | --- | ---
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-style:italic">*Still*&lt;/span> | &lt;span style="color:#e6db74">`renders`&lt;/span> | &lt;span style="font-weight:bold">**nicely**&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>1 | 2 | 3
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Markdown&lt;/th>
-&lt;th>Less&lt;/th>
-&lt;th>Pretty&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;em>Still&lt;/em>&lt;/td>
-&lt;td>&lt;code>renders&lt;/code>&lt;/td>
-&lt;td>&lt;strong>nicely&lt;/strong>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1&lt;/td>
-&lt;td>2&lt;/td>
-&lt;td>3&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;blockquote>
-&lt;p>You can find more information about &lt;strong>LaTeX&lt;/strong> mathematical expressions &lt;a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here&lt;/a>.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="blockquotes">Blockquotes&lt;/h2>
-&lt;blockquote>
-&lt;p>Blockquotes are very handy in email to emulate reply text.
-This line is part of the same quote.&lt;/p>
-&lt;/blockquote>
-&lt;p>Quote break.&lt;/p>
-&lt;blockquote>
-&lt;p>This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;rsquo;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em>put&lt;/em> &lt;strong>Markdown&lt;/strong> into a blockquote.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="horizontal-rule">Horizontal Rule&lt;/h2>
-&lt;p>Three or more&amp;hellip;&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>---
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Hyphens
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-style:italic">**&lt;/span>*
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Asterisks
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>___
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Underscores
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;p>Hyphens&lt;/p>
-&lt;hr>
-&lt;p>Asterisks&lt;/p>
-&lt;hr>
-&lt;p>Underscores&lt;/p>
-&lt;h2 id="line-breaks">Line Breaks&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Here&amp;#39;s a line for us to start with.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This line is separated from the one above by two newlines, so it will be a &lt;span style="font-style:italic">*separate paragraph*&lt;/span>.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This line is also a separate paragraph, but...
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This line is only separated by a single newline, so it&amp;#39;s a separate line in the &lt;span style="font-style:italic">*same paragraph*&lt;/span>.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Here&amp;rsquo;s a line for us to start with.&lt;/p>
-&lt;p>This line is separated from the one above by two newlines, so it will be a &lt;em>separate paragraph&lt;/em>.&lt;/p>
-&lt;p>This line is also a separate paragraph, but&amp;hellip;
-This line is only separated by a single newline, so it&amp;rsquo;s a separate line in the &lt;em>same paragraph&lt;/em>.&lt;/p>
-&lt;hr>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>This is a regular paragraph.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">table&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">tr&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">td&lt;/span>&amp;gt;Foo&amp;lt;/&lt;span style="color:#f92672">td&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;/&lt;span style="color:#f92672">tr&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">table&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is another regular paragraph.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This is a regular paragraph.&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;p>This is another regular paragraph.&lt;/p>
-&lt;h2 id="youtube-videos">Youtube videos&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">a&lt;/span> &lt;span style="color:#a6e22e">href&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://www.youtube.com/watch?feature=player_embedded&amp;amp;v=ARted4RniaU
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">target&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;_blank&amp;#34;&lt;/span>&amp;gt;&amp;lt;&lt;span style="color:#f92672">img&lt;/span> &lt;span style="color:#a6e22e">src&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://img.youtube.com/vi/ARted4RniaU/0.jpg&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">alt&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;IMAGE ALT TEXT HERE&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">width&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;240&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">height&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;180&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">border&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;10&amp;#34;&lt;/span> /&amp;gt;&amp;lt;/&lt;span style="color:#f92672">a&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Pure markdown version:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">![IMAGE ALT TEXT HERE&lt;/span>](&lt;span style="color:#a6e22e">https://img.youtube.com/vi/ARted4RniaU/0.jpg&lt;/span>)](https://www.youtube.com/watch?v=ARted4RniaU)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>Pure markdown version:&lt;/p>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=ARted4RniaU">&lt;img alt="IMAGE ALT TEXT HERE" src="https://img.youtube.com/vi/ARted4RniaU/0.jpg">&lt;/a>&lt;/p></description></item><item><title>Rich Content</title><link>https://mrquantran.github.io/portfolio/blog/rich-content/</link><pubDate>Mon, 18 Jul 2022 20:29:08 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/rich-content/</guid><description>&lt;h2 id="figure">figure&lt;/h2>
-&lt;h2 id="ref-in-posts">ref in posts&lt;/h2>
-&lt;p>&lt;a href="https://mrquantran.github.io/portfolio/blog/videos/">Neat&lt;/a>
-&lt;a href="https://mrquantran.github.io/portfolio/portfolio/blog/videos/#who">Who&lt;/a>&lt;/p>
-&lt;h2 id="hide-toggle">hide toggle&lt;/h2>
-&lt;p>
-&lt;details class="toggle">
-&lt;summary markdown="span">summary&lt;/summary>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>hide value
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;/details>
-&lt;/p>
-&lt;h3 id="without-summary">without summary&lt;/h3>
-&lt;p>
-&lt;details class="toggle">
-&lt;summary markdown="span">Toggle&lt;/summary>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>hide value
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;/details>
-&lt;/p>
-&lt;h2 id="tab-group-code">tab group code&lt;/h2>
-&lt;div class="tabs tabs-left">
-&lt;style>
-.tabs input#tab-0-0:checked ~ .tab-content-0-0 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-0" checked/>
-&lt;label for="tab-0-0" class="tab-label">Hello&lt;/label>
-&lt;div class="tab-content tab-content-0-0">
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>Hello World!
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;/div>
-&lt;style>
-.tabs input#tab-0-1:checked ~ .tab-content-0-1 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-1" />
-&lt;label for="tab-0-1" class="tab-label">Goodbye&lt;/label>
-&lt;div class="tab-content tab-content-0-1">
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>Goodbye Everybody!
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;h2 id="tab-group">tab group&lt;/h2>
-&lt;div class="tabs tabs-left">
-&lt;style>
-.tabs input#tab-1-0:checked ~ .tab-content-1-0 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-1" id="tab-1-0" checked/>
-&lt;label for="tab-1-0" class="tab-label">MacOS&lt;/label>
-&lt;div class="tab-content tab-content-1-0">
-brew install hugo
-&lt;/div>
-&lt;style>
-.tabs input#tab-1-1:checked ~ .tab-content-1-1 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-1" id="tab-1-1" />
-&lt;label for="tab-1-1" class="tab-label">Linux&lt;/label>
-&lt;div class="tab-content tab-content-1-1">
-apt install hugo
-&lt;/div>
-&lt;style>
-.tabs input#tab-1-2:checked ~ .tab-content-1-2 {
-display: block;
-}
-&lt;/style>
-&lt;input type="radio" class="tab-input" name="tab-select-1" id="tab-1-2" />
-&lt;label for="tab-1-2" class="tab-label">Window&lt;/label>
-&lt;div class="tab-content tab-content-1-2">
-window install hugo
-&lt;/div>
-&lt;/div></description></item><item><title>Code Highlight Style test</title><link>https://mrquantran.github.io/portfolio/blog/code-highlight/</link><pubDate>Sun, 25 Jul 2021 16:43:00 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/code-highlight/</guid><description>&lt;p>Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;a href="https://highlightjs.org">https://highlightjs.org&lt;/a>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-plain" data-lang="plain">&lt;span style="display:flex;">&lt;span>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-rust" data-lang="rust">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#[derive(Debug)]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">pub&lt;/span> &lt;span style="color:#66d9ef">enum&lt;/span> &lt;span style="color:#a6e22e">State&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Start,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Transient,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> Closed,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">impl&lt;/span> From&lt;span style="color:#f92672">&amp;lt;&amp;amp;&lt;/span>&lt;span style="color:#a6e22e">&amp;#39;a&lt;/span> &lt;span style="color:#66d9ef">str&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span> &lt;span style="color:#66d9ef">for&lt;/span> State {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">fn&lt;/span> &lt;span style="color:#a6e22e">from&lt;/span>(s: &lt;span style="color:#66d9ef">&amp;amp;&lt;/span>&lt;span style="color:#a6e22e">&amp;#39;a&lt;/span> &lt;span style="color:#66d9ef">str&lt;/span>) -&amp;gt; &lt;span style="color:#a6e22e">Self&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">match&lt;/span> s {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;start&amp;#34;&lt;/span> &lt;span style="color:#f92672">=&amp;gt;&lt;/span> State::Start,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;closed&amp;#34;&lt;/span> &lt;span style="color:#f92672">=&amp;gt;&lt;/span> State::Closed,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> _ &lt;span style="color:#f92672">=&amp;gt;&lt;/span> unreachable!(),
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-json" data-lang="json">&lt;span style="display:flex;">&lt;span>[
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;title&amp;#34;&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;apples&amp;#34;&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;count&amp;#34;&lt;/span>: [&lt;span style="color:#ae81ff">12000&lt;/span>, &lt;span style="color:#ae81ff">20000&lt;/span>],
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;description&amp;#34;&lt;/span>: {&lt;span style="color:#f92672">&amp;#34;text&amp;#34;&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;...&amp;#34;&lt;/span>, &lt;span style="color:#f92672">&amp;#34;sensitive&amp;#34;&lt;/span>: &lt;span style="color:#66d9ef">false&lt;/span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> },
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;title&amp;#34;&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;oranges&amp;#34;&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;count&amp;#34;&lt;/span>: [&lt;span style="color:#ae81ff">17500&lt;/span>, &lt;span style="color:#66d9ef">null&lt;/span>],
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;#34;description&amp;#34;&lt;/span>: {&lt;span style="color:#f92672">&amp;#34;text&amp;#34;&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;...&amp;#34;&lt;/span>, &lt;span style="color:#f92672">&amp;#34;sensitive&amp;#34;&lt;/span>: &lt;span style="color:#66d9ef">false&lt;/span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>]
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">@requires_authorization&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">somefunc&lt;/span>(param1&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;&amp;#39;&lt;/span>, param2&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">0&lt;/span>):
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">r&lt;/span>&lt;span style="color:#e6db74">&amp;#39;&amp;#39;&amp;#39;A docstring&amp;#39;&amp;#39;&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> param1 &lt;span style="color:#f92672">&amp;gt;&lt;/span> param2: &lt;span style="color:#75715e"># interesting&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print &lt;span style="color:#e6db74">&amp;#39;Gre&lt;/span>&lt;span style="color:#ae81ff">\&amp;#39;&lt;/span>&lt;span style="color:#e6db74">ater&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> (param2 &lt;span style="color:#f92672">-&lt;/span> param1 &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">0b10&lt;/span>l) &lt;span style="color:#f92672">or&lt;/span> &lt;span style="color:#66d9ef">None&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">SomeClass&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">pass&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> message &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;&amp;#39;&amp;#39;interpreter
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">... prompt&amp;#39;&amp;#39;&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&amp;lt;!DOCTYPE html&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Title&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">style&lt;/span>&amp;gt;&lt;span style="color:#f92672">body&lt;/span> {&lt;span style="color:#66d9ef">width&lt;/span>: &lt;span style="color:#ae81ff">500&lt;/span>&lt;span style="color:#66d9ef">px&lt;/span>;}&amp;lt;/&lt;span style="color:#f92672">style&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">script&lt;/span> &lt;span style="color:#a6e22e">type&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;application/javascript&amp;#34;&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">$init&lt;/span>() {&lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#66d9ef">true&lt;/span>;}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">script&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#f92672">p&lt;/span> &lt;span style="color:#a6e22e">checked&lt;/span> &lt;span style="color:#a6e22e">class&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;title&amp;#34;&lt;/span> &lt;span style="color:#a6e22e">id&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#39;title&amp;#39;&lt;/span>&amp;gt;Title&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">&amp;lt;!-- here goes the rest of the page --&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">$initHighlight&lt;/span>(&lt;span style="color:#a6e22e">block&lt;/span>, &lt;span style="color:#a6e22e">cls&lt;/span>) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">try&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">cls&lt;/span>.&lt;span style="color:#a6e22e">search&lt;/span>(&lt;span style="color:#e6db74">/\bno\-highlight\b/&lt;/span>) &lt;span style="color:#f92672">!=&lt;/span> &lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#a6e22e">process&lt;/span>(&lt;span style="color:#a6e22e">block&lt;/span>, &lt;span style="color:#66d9ef">true&lt;/span>, &lt;span style="color:#ae81ff">0x0F&lt;/span>) &lt;span style="color:#f92672">+&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">` class=&amp;#34;&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>&lt;span style="color:#a6e22e">cls&lt;/span>&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;`&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> } &lt;span style="color:#66d9ef">catch&lt;/span> (&lt;span style="color:#a6e22e">e&lt;/span>) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">/* handle exception */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span> (&lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#f92672">/&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span> &lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#a6e22e">classes&lt;/span>.&lt;span style="color:#a6e22e">length&lt;/span>; &lt;span style="color:#a6e22e">i&lt;/span>&lt;span style="color:#f92672">++&lt;/span>) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">checkCondition&lt;/span>(&lt;span style="color:#a6e22e">classes&lt;/span>[&lt;span style="color:#a6e22e">i&lt;/span>]) &lt;span style="color:#f92672">===&lt;/span> &lt;span style="color:#66d9ef">undefined&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;undefined&amp;#39;&lt;/span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> (
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">div&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#a6e22e">web&lt;/span>&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#a6e22e">component&lt;/span>&lt;span style="color:#f92672">&amp;gt;&lt;/span>{&lt;span style="color:#a6e22e">block&lt;/span>}&lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/web-component&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">&amp;lt;&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/div&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> )
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">export&lt;/span> &lt;span style="color:#a6e22e">$initHighlight&lt;/span>;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-cpp" data-lang="cpp">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#include&lt;/span> &lt;span style="color:#75715e">&amp;lt;iostream&amp;gt;&lt;/span>&lt;span style="color:#75715e">
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">int&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>(&lt;span style="color:#66d9ef">int&lt;/span> argc, &lt;span style="color:#66d9ef">char&lt;/span> &lt;span style="color:#f92672">*&lt;/span>argv[]) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">/* An annoying &amp;#34;Hello World&amp;#34; example */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">for&lt;/span> (&lt;span style="color:#66d9ef">auto&lt;/span> i &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>; i &lt;span style="color:#f92672">&amp;lt;&lt;/span> &lt;span style="color:#ae81ff">0xFFFF&lt;/span>; i&lt;span style="color:#f92672">++&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cout &lt;span style="color:#f92672">&amp;lt;&amp;lt;&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Hello, World!&amp;#34;&lt;/span> &lt;span style="color:#f92672">&amp;lt;&amp;lt;&lt;/span> endl;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">char&lt;/span> c &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#39;\n&amp;#39;&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> unordered_map &lt;span style="color:#f92672">&amp;lt;&lt;/span>string, vector&lt;span style="color:#f92672">&amp;lt;&lt;/span>string&lt;span style="color:#f92672">&amp;gt;&lt;/span> &lt;span style="color:#f92672">&amp;gt;&lt;/span> m;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> m[&lt;span style="color:#e6db74">&amp;#34;key&amp;#34;&lt;/span>] &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#ae81ff">\\\\&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>; &lt;span style="color:#75715e">// this is an error
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">2e3&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">12l&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sql" data-lang="sql">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">CREATE&lt;/span> &lt;span style="color:#66d9ef">TABLE&lt;/span> &lt;span style="color:#e6db74">&amp;#34;topic&amp;#34;&lt;/span> (
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;id&amp;#34;&lt;/span> serial &lt;span style="color:#66d9ef">NOT&lt;/span> &lt;span style="color:#66d9ef">NULL&lt;/span> &lt;span style="color:#66d9ef">PRIMARY&lt;/span> &lt;span style="color:#66d9ef">KEY&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;forum_id&amp;#34;&lt;/span> integer &lt;span style="color:#66d9ef">NOT&lt;/span> &lt;span style="color:#66d9ef">NULL&lt;/span>,
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;subject&amp;#34;&lt;/span> varchar(&lt;span style="color:#ae81ff">255&lt;/span>) &lt;span style="color:#66d9ef">NOT&lt;/span> &lt;span style="color:#66d9ef">NULL&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">ALTER&lt;/span> &lt;span style="color:#66d9ef">TABLE&lt;/span> &lt;span style="color:#e6db74">&amp;#34;topic&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">ADD&lt;/span> &lt;span style="color:#66d9ef">CONSTRAINT&lt;/span> forum_id &lt;span style="color:#66d9ef">FOREIGN&lt;/span> &lt;span style="color:#66d9ef">KEY&lt;/span> (&lt;span style="color:#e6db74">&amp;#34;forum_id&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">REFERENCES&lt;/span> &lt;span style="color:#e6db74">&amp;#34;forum&amp;#34;&lt;/span> (&lt;span style="color:#e6db74">&amp;#34;id&amp;#34;&lt;/span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">-- Initials
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#66d9ef">insert&lt;/span> &lt;span style="color:#66d9ef">into&lt;/span> &lt;span style="color:#e6db74">&amp;#34;topic&amp;#34;&lt;/span> (&lt;span style="color:#e6db74">&amp;#34;forum_id&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;subject&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">values&lt;/span> (&lt;span style="color:#ae81ff">2&lt;/span>, &lt;span style="color:#e6db74">&amp;#39;D&amp;#39;&amp;#39;artagnian&amp;#39;&lt;/span>);
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-objectivec" data-lang="objectivec">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#import &amp;lt;UIKit/UIKit.h&amp;gt;
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#import &amp;#34;Dependency.h&amp;#34;
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@protocol&lt;/span> &lt;span style="color:#a6e22e">WorldDataSource&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@optional&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">-&lt;/span> (NSString&lt;span style="color:#f92672">*&lt;/span>)worldName;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@required&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">-&lt;/span> (&lt;span style="color:#66d9ef">BOOL&lt;/span>)allowsToLive;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@end&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@property&lt;/span> (&lt;span style="color:#66d9ef">nonatomic&lt;/span>, &lt;span style="color:#66d9ef">readonly&lt;/span>) NSString &lt;span style="color:#f92672">*&lt;/span>title;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>- (&lt;span style="color:#66d9ef">IBAction&lt;/span>) &lt;span style="color:#a6e22e">show&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@end&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-java" data-lang="java">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">/**
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"> * @author John Smith &amp;lt;john.smith@example.com&amp;gt;
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">*/&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">package&lt;/span> l2f.gameserver.model;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">abstract&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">L2Char&lt;/span> &lt;span style="color:#66d9ef">extends&lt;/span> L2Object {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">static&lt;/span> &lt;span style="color:#66d9ef">final&lt;/span> Short ERROR &lt;span style="color:#f92672">=&lt;/span> 0x0001;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">void&lt;/span> &lt;span style="color:#a6e22e">moveTo&lt;/span>(&lt;span style="color:#66d9ef">int&lt;/span> x, &lt;span style="color:#66d9ef">int&lt;/span> y, &lt;span style="color:#66d9ef">int&lt;/span> z) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> _ai &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">null&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> log(&lt;span style="color:#e6db74">&amp;#34;Should not be called&amp;#34;&lt;/span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> (1 &lt;span style="color:#f92672">&amp;gt;&lt;/span> 5) { &lt;span style="color:#75715e">// wtf!?&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-swift" data-lang="swift">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">import&lt;/span> &lt;span style="color:#a6e22e">Foundation&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">@objc&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">Person&lt;/span>: Entity {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> name: String!
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> age: Int!
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">init&lt;/span>(name: String, age: Int) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">/* /* ... */ */&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e">// Return a descriptive string for this person&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">description&lt;/span>(offset: Int = &lt;span style="color:#ae81ff">0&lt;/span>) -&amp;gt; String {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#e6db74">\(&lt;/span>name&lt;span style="color:#e6db74">)&lt;/span>&lt;span style="color:#e6db74"> is &lt;/span>&lt;span style="color:#e6db74">\(&lt;/span>age &lt;span style="color:#f92672">+&lt;/span> offset&lt;span style="color:#e6db74">)&lt;/span>&lt;span style="color:#e6db74"> years old&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-css" data-lang="css">&lt;span style="display:flex;">&lt;span>@&lt;span style="color:#66d9ef">font-face&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">font-family&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#f92672">Chunkfive&lt;/span>&lt;span style="color:#f92672">;&lt;/span> &lt;span style="color:#f92672">src&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#f92672">url&lt;/span>&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#e6db74">&amp;#39;Chunkfive.otf&amp;#39;&lt;/span>&lt;span style="color:#f92672">);&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">body&lt;/span>&lt;span style="color:#f92672">,&lt;/span> .&lt;span style="color:#a6e22e">usertext&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#ae81ff">#F0F0F0&lt;/span>; &lt;span style="color:#66d9ef">background&lt;/span>: &lt;span style="color:#ae81ff">#600&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">font-family&lt;/span>: Chunkfive, sans;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@&lt;span style="color:#66d9ef">import&lt;/span> &lt;span style="color:#f92672">url&lt;/span>&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#f92672">print&lt;/span>.&lt;span style="color:#a6e22e">css&lt;/span>&lt;span style="color:#f92672">)&lt;/span>;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@&lt;span style="color:#66d9ef">media&lt;/span> &lt;span style="color:#f92672">print&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">a&lt;/span>&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#f92672">href&lt;/span>&lt;span style="color:#f92672">^=&lt;/span>&lt;span style="color:#f92672">http&lt;/span>&lt;span style="color:#f92672">]&lt;/span>::&lt;span style="color:#a6e22e">after&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">content&lt;/span>: attr(href)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-ruby" data-lang="ruby">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># The Greeter class&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">Greeter&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">initialize&lt;/span>(name)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> @name &lt;span style="color:#f92672">=&lt;/span> name&lt;span style="color:#f92672">.&lt;/span>capitalize
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">end&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">salute&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> puts &lt;span style="color:#e6db74">&amp;#34;Hello &lt;/span>&lt;span style="color:#e6db74">#{&lt;/span>@name&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">!&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">end&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">end&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>g &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">Greeter&lt;/span>&lt;span style="color:#f92672">.&lt;/span>new(&lt;span style="color:#e6db74">&amp;#34;world&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>g&lt;span style="color:#f92672">.&lt;/span>salute
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-makefile" data-lang="makefile">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Makefile
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>BUILDDIR &lt;span style="color:#f92672">=&lt;/span> _build
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>EXTRAS &lt;span style="color:#f92672">?=&lt;/span> &lt;span style="color:#66d9ef">$(&lt;/span>BUILDDIR&lt;span style="color:#66d9ef">)&lt;/span>/extras
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">.PHONY&lt;/span>&lt;span style="color:#f92672">:&lt;/span> main clean
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">main&lt;/span>&lt;span style="color:#f92672">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> @echo &lt;span style="color:#e6db74">&amp;#34;Building main facility...&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> build_main &lt;span style="color:#66d9ef">$(&lt;/span>BUILDDIR&lt;span style="color:#66d9ef">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">clean&lt;/span>&lt;span style="color:#f92672">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> rm -rf &lt;span style="color:#66d9ef">$(&lt;/span>BUILDDIR&lt;span style="color:#66d9ef">)&lt;/span>/*
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">package&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> &lt;span style="color:#e6db74">&amp;#34;fmt&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ch&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> make(&lt;span style="color:#66d9ef">chan&lt;/span> &lt;span style="color:#66d9ef">float64&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">ch&lt;/span> &lt;span style="color:#f92672">&amp;lt;-&lt;/span> &lt;span style="color:#ae81ff">1.0e10&lt;/span> &lt;span style="color:#75715e">// magic number
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">x&lt;/span>, &lt;span style="color:#a6e22e">ok&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> &lt;span style="color:#f92672">&amp;lt;-&lt;/span> &lt;span style="color:#a6e22e">ch&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">defer&lt;/span> &lt;span style="color:#a6e22e">fmt&lt;/span>.&lt;span style="color:#a6e22e">Println&lt;/span>(&lt;span style="color:#e6db74">`exitting now\`&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">go&lt;/span> println(len(&lt;span style="color:#e6db74">&amp;#34;hello world!&amp;#34;&lt;/span>))
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#!/bin/bash
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">###### CONFIG&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>ACCEPTED_HOSTS&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;/root/.hag_accepted.conf&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>BE_VERBOSE&lt;span style="color:#f92672">=&lt;/span>false
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">if&lt;/span> &lt;span style="color:#f92672">[&lt;/span> &lt;span style="color:#e6db74">&amp;#34;&lt;/span>$UID&lt;span style="color:#e6db74">&amp;#34;&lt;/span> -ne &lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#f92672">]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">then&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> echo &lt;span style="color:#e6db74">&amp;#34;Superuser rights required&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> exit &lt;span style="color:#ae81ff">2&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">fi&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>genApacheConf&lt;span style="color:#f92672">(){&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> echo -e &lt;span style="color:#e6db74">&amp;#34;# Host &lt;/span>&lt;span style="color:#e6db74">${&lt;/span>HOME_DIR&lt;span style="color:#e6db74">}&lt;/span>$1&lt;span style="color:#e6db74">/&lt;/span>$2&lt;span style="color:#e6db74"> :&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-ini" data-lang="ini">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">; boilerplate&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">[package]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">name&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;some_name&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">authors&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">[&amp;#34;Author&amp;#34;]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">description&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;This is \&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">a description&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">[[lib]]&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">name&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">${NAME}&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">default&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">True&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">auto&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">no&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">counter&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">1_000&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Videos</title><link>https://mrquantran.github.io/portfolio/blog/videos/</link><pubDate>Wed, 25 Dec 2013 00:19:15 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/videos/</guid><description>&lt;p>This is a video test post.&lt;/p>
-&lt;h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode&lt;/h2>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ZJthWmvUzzc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
->&lt;/iframe>
-&lt;/div>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="twitter-simple-shortcode">Twitter Simple Shortcode&lt;/h2>
-&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href="https://t.co/eJh4f2zncC">pic.twitter.com/eJh4f2zncC&lt;/a>&lt;/p>&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href="https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw">October 26, 2021&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-&lt;!-- raw HTML omitted -->
-&lt;hr>
-&lt;h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode&lt;/h2>
-&lt;style>
-.__h_video {
-position: relative;
-padding-bottom: 56.23%;
-height: 0;
-overflow: hidden;
-width: 100%;
-background: #000;
-}
-.__h_video img {
-width: 100%;
-height: auto;
-color: #000;
-}
-.__h_video .play {
-height: 72px;
-width: 72px;
-left: 50%;
-top: 50%;
-margin-left: -36px;
-margin-top: -36px;
-position: absolute;
-cursor: pointer;
-}
-&lt;/style>&lt;div class="s_video_simple __h_video">
-&lt;a href="https://vimeo.com/4.8912912e&amp;#43;07" rel="noopener" target="_blank">
-&lt;img src="https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640" srcset="https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 1x, https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 2x" alt="Sing Jan Swing - Kinetic Type">
-&lt;div class="play">
-&lt;svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61">&lt;circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000">&lt;/circle>&lt;path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff">&lt;/path>&lt;/svg>
-&lt;/div>
-&lt;/a>
-&lt;/div></description></item><item><title>日本語テスト</title><link>https://mrquantran.github.io/portfolio/blog/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link><pubDate>Tue, 24 Dec 2013 23:33:26 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid><description>&lt;p>This is a Japanese test post.&lt;/p>
-&lt;p>私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p>
-&lt;p>最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p>
-&lt;p>がたを知っないはずも同時に九月をいよいよたありた。&lt;/p>
-&lt;p>もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p>
-&lt;blockquote>
-&lt;p>それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p>
-&lt;/blockquote>
-&lt;p>この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p>
-&lt;p>&lt;em>From &lt;a href="http://lipsum.sugutsukaeru.jp/index.cgi">すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/a>&lt;/em>&lt;/p></description></item><item><title>中文測試</title><link>https://mrquantran.github.io/portfolio/blog/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link><pubDate>Tue, 24 Dec 2013 23:31:30 +0000</pubDate><guid>https://mrquantran.github.io/portfolio/blog/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid><description>&lt;p>This is a Chinese test post.&lt;/p>
-&lt;p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p>
-&lt;p>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p>
-&lt;p>就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p>
-&lt;p>國新故。&lt;/p>
-&lt;blockquote>
-&lt;p>工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p>
-&lt;/blockquote>
-&lt;p>&lt;em>From &lt;a href="http://www.richyli.com/tool/loremipsum/">亂數假文產生器 - Chinese Lorem Ipsum&lt;/a>&lt;/em>&lt;/p></description></item></channel></rss>
+&lt;p>This was my reality a few months ago when I decided to leave my job and relocate to Finland. Here’s why I made this life-changing decision and what I hope to achieve in my new chapter.&lt;/p>
+&lt;h2 id="seeking-new-challenges">Seeking New Challenges&lt;/h2>
+&lt;p>After two years in my role, I found myself yearning for new challenges. The initial excitement had waned, and my professional growth felt stagnant. I believe that comfort can sometimes be the enemy of progress. Moving to Finland presented an opportunity to step out of my comfort zone and immerse myself in a new professional landscape. Finland&amp;rsquo;s burgeoning tech scene and innovative work culture were significant draws for me.&lt;/p>
+&lt;h2 id="quality-of-life">Quality of Life&lt;/h2>
+&lt;p>Finland consistently ranks high in global quality of life indices. Factors such as excellent healthcare, a robust social security system, and a focus on work-life balance make it an attractive place to live. The idea of living in a society that values well-being and sustainability resonated deeply with me. I wanted to experience a lifestyle where professional success and personal happiness go hand-in-hand.&lt;/p>
+&lt;h2 id="education-and-professional-development">Education and Professional Development&lt;/h2>
+&lt;p>Finland is renowned for its education system. Even as a professional, there are numerous opportunities for continuous learning and development. The country encourages lifelong learning, and many employers support further education and professional development. I’m excited about the prospects of expanding my skill set and advancing my career in such a supportive environment.&lt;/p>
+&lt;h2 id="cultural-experience">Cultural Experience&lt;/h2>
+&lt;p>Living in a new country offers a rich cultural experience. Finland’s unique blend of tradition and modernity, its stunning natural landscapes, and the famed Finnish way of life (including the love for saunas and respect for nature) are all aspects I’m eager to explore. Experiencing different cultures broadens one’s perspective and fosters personal growth. I look forward to embracing Finnish culture and making new connections.&lt;/p>
+&lt;h2 id="work-life-balance">Work-Life Balance&lt;/h2>
+&lt;p>The Finnish work culture places a strong emphasis on work-life balance. Unlike the often relentless pace found in many other countries, Finnish companies typically encourage employees to take breaks and prioritize their well-being. This balance is crucial for maintaining mental and physical health, and it&amp;rsquo;s something I felt was lacking in my previous job.&lt;/p>
+&lt;h2 id="adventure-and-exploration">Adventure and Exploration&lt;/h2>
+&lt;p>Lastly, the move to Finland is an adventure. It’s about exploring a new part of the world, trying new things, and stepping into the unknown. Life is too short to stay in one place out of fear or convenience. Embracing this change is about living fully and making the most out of the opportunities life presents.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Leaving my job of two years was a difficult decision, but one that I believe is for the best. Moving to Finland is an exciting step toward new professional challenges, a better quality of life, and a chance to grow both personally and professionally. Change can be daunting, but it is also the catalyst for growth and new opportunities. Here’s to new beginnings in Finland!&lt;/p></description></item></channel></rss>
