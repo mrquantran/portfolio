@@ -5,13 +5,13 @@
 
 html {
   box-sizing: border-box;
-  font-size: 78%;
+  font-size: 75%;
   scroll-behavior: smooth; }
 
 body {
   color: #212121;
   background-color: white;
-  font-family: "LXGW WenKai", sans-serif;
+  font-family: ui-sans-serif, system-ui, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji;
   font-size: 1.8em;
   font-weight: 400;
   line-height: 1.8em; }
@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "LXGW WenKai", sans-serif;
+  font-family: ui-sans-serif, system-ui, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji;
   font-weight: 600;
   color: #000;
   margin: 2rem 0 2rem 0; }
@@ -529,7 +529,7 @@ img {
   .navigation span {
     display: inline;
     font-size: 1.7rem;
-    font-family: "LXGW WenKai", sans-serif;
+    font-family: ui-sans-serif, system-ui, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji;
     font-weight: 600;
     color: #212121; }
   .navigation a:hover, .navigation a:focus {
