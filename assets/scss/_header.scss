@@ -6,6 +6,11 @@
   padding-left: 2rem;
   padding-right: 2rem;
 
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
   a,
   span {
     display: inline;
@@ -16,6 +21,7 @@
   }
 
   a {
+
     &:hover,
     &:focus {
       text-decoration: none;
@@ -33,11 +39,21 @@
   }
 
   .navigation-brand {
-    float: left;
-    padding-top: 0.2rem;
+    display: flex;
+    align-items: center;
+    transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+    transition-duration: .15s;
+
+    &:hover {
+      $tw-scale-x: 1.15;
+      $tw-scale-y: 1.15;
+      transform: translate(#{$tw-translate-x}, #{$tw-translate-y}) rotate(#{$tw-rotate}) skewX(#{$tw-skew-x}) skewY(#{$tw-skew-y}) scaleX(#{$tw-scale-x}) scaleY(#{$tw-scale-y});
+    }
   }
 
   .navigation-list {
+    display: flex;
+    align-items: center;
     float: right;
     list-style: none;
     margin-bottom: 0;
@@ -63,6 +79,14 @@
       float: left;
       margin: 0;
       position: relative;
+      transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+      transition-duration: .15s;
+
+      &:hover {
+        $tw-scale-x: 1.1;
+        $tw-scale-y: 1.1;
+        transform: translate(#{$tw-translate-x}, #{$tw-translate-y}) rotate(#{$tw-rotate}) skewX(#{$tw-skew-x}) skewY(#{$tw-skew-y}) scaleX(#{$tw-scale-x}) scaleY(#{$tw-scale-y});
+      }
 
       @media only screen and (max-width: 768px) {
         float: none !important;
@@ -77,6 +101,7 @@
     }
 
     .navigation-menu {
+
       a,
       span {
         padding-left: 1.5rem;
@@ -98,12 +123,12 @@
       border: none;
       background: none;
       padding: 0.4rem 0 0 0;
-      cursor:pointer;
+      cursor: pointer;
 
       button {
         border: none;
         background: none;
-        cursor:pointer;
+        cursor: pointer;
         padding: 0;
       }
 
@@ -114,6 +139,7 @@
       .toggle-light {
         display: none;
       }
+
       a,
       span {
         padding-left: 1rem;
@@ -123,6 +149,7 @@
 
     .navigation-language {
       padding: 0;
+
       a,
       span {
         padding-left: 1rem;
