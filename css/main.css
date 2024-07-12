@@ -525,6 +525,9 @@ img {
   width: 100%;
   padding-left: 2rem;
   padding-right: 2rem; }
+  .navigation .container {
+    display: flex;
+    align-items: center; }
   .navigation a,
   .navigation span {
     display: inline;
@@ -540,9 +543,15 @@ img {
     .navigation i:hover, .navigation i:focus {
       text-decoration: none; }
   .navigation .navigation-brand {
-    float: left;
-    padding-top: 0.2rem; }
+    display: flex;
+    align-items: center;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: .15s; }
+    .navigation .navigation-brand:hover {
+      transform: translate(0, 0) rotate(0) skewX(0) skewY(0) scaleX(1.15) scaleY(1.15); }
   .navigation .navigation-list {
+    display: flex;
+    align-items: center;
     float: right;
     list-style: none;
     margin-bottom: 0;
@@ -565,7 +574,11 @@ img {
     .navigation .navigation-list .navigation-item {
       float: left;
       margin: 0;
-      position: relative; }
+      position: relative;
+      transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+      transition-duration: .15s; }
+      .navigation .navigation-list .navigation-item:hover {
+        transform: translate(0, 0) rotate(0) skewX(0) skewY(0) scaleX(1.1) scaleY(1.1); }
       @media only screen and (max-width: 768px) {
         .navigation .navigation-list .navigation-item {
           float: none !important;
