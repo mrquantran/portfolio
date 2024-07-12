@@ -57,7 +57,13 @@ $color-dark-code-bg: #202020;
 
 
 // Fonts
-$font-family: "LXGW WenKai", sans-serif;
+$font-family: ui-sans-serif,
+system-ui,
+sans-serif,
+apple color emoji,
+segoe ui emoji,
+segoe ui symbol,
+noto color emoji;
 $code-font-family: SFMono-Regular,
 Consolas,
 Liberation Mono,
